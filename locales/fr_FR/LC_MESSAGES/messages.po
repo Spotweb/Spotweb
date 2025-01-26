@@ -1,0 +1,1965 @@
+# This file is distributed under the same license as the SpotWeb package.
+# Copyright (c) 2013, Spotweb
+# All rights reserved.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SpotWeb\n"
+"Report-Msgid-Bugs-To: Test <test@gmail.com>\n"
+"POT-Creation-Date: 2013-01-20 06:10+0800\n"
+"PO-Revision-Date: 2025-01-26 17:37+0300\n"
+"Last-Translator: Test <test@gmail.com>\n"
+"Language-Team: English\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: general translations
+msgid "overview"
+msgstr "vue d'ensemble"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Change"
+msgstr "Modifier"
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "Mo"
+msgstr "Lu"
+
+msgid "Tu"
+msgstr "Ma"
+
+msgid "We"
+msgstr "Me"
+
+msgid "Th"
+msgstr "Je"
+
+msgid "Fr"
+msgstr "Ve"
+
+msgid "Sa"
+msgstr "Sa"
+
+msgid "Su"
+msgstr "Di"
+
+msgid "Monday"
+msgstr "Lundi"
+
+msgid "Tuesday"
+msgstr "Mardi"
+
+msgid "Wednesday"
+msgstr "Mercredi"
+
+msgid "Thursday"
+msgstr "Jeudi"
+
+msgid "Friday"
+msgstr "Vendredi"
+
+msgid "Saturday"
+msgstr "Samedi"
+
+msgid "Sunday"
+msgstr "DImanche"
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Feb"
+msgstr "Fév"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Avr"
+
+msgid "May"
+msgstr "Mai"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Aug"
+msgstr "Aoû"
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Oct"
+msgstr "Oct"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Dec"
+msgstr "Déc"
+
+msgid "January"
+msgstr "Janvier"
+
+msgid "February"
+msgstr "Février"
+
+msgid "March"
+msgstr "Mars"
+
+msgid "April"
+msgstr "Avril"
+
+# dup msgid "May"
+# dup msgstr "Mei"
+msgid "June"
+msgstr "Juin"
+
+msgid "July"
+msgstr "Juillet"
+
+msgid "August"
+msgstr "Août"
+
+msgid "September"
+msgstr "Septembre"
+
+msgid "October"
+msgstr "Octobre"
+
+msgid "November"
+msgstr "Novembre"
+
+msgid "December"
+msgstr "Décembre"
+
+#: adminpanel.inc.php
+msgid "Back to mainview"
+msgstr "Retour à la vue principale"
+
+msgid "Userlist"
+msgstr "Liste d'utilisateurs"
+
+msgid "Grouplist"
+msgstr "Liste de groupes"
+
+#: comment.inc.php
+msgid "%s gave this spot %d star"
+msgid_plural "%s gave this spot %d stars"
+msgstr[0] "%s a donné à ce spot %d étoile"
+msgstr[1] "%s a donné à ce spot %d étoiles"
+
+msgid "Posted by %s"
+msgstr "Envoyé par %s"
+
+msgid "Find spots from %s"
+msgstr "Trouver des spots de %s"
+
+#: createuser.inc.php
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Firstname"
+msgstr "Prénom"
+
+msgid "Lastname"
+msgstr "Nom"
+
+msgid "E-mailaddress"
+msgstr "Adresse de courriel"
+
+msgid "Send e-mail to new user?"
+msgstr "Envoyer un courriel au nouvel utilisateur ?"
+
+#: editfilter.inc.php
+msgid "Name"
+msgstr "Nom"
+
+msgid "Icon"
+msgstr "Icône"
+
+#: editsecgroup.inc.php
+msgid "Permission"
+msgstr "Permission"
+
+msgid "Object"
+msgstr "Objet"
+
+msgid "Deny/Allow"
+msgstr "Refuser/Autoriser"
+
+msgid "Allowed"
+msgstr "Autorisé"
+
+msgid "Denied"
+msgstr "Refusé"
+
+msgid "Set to allow"
+msgstr "Réglé sur autoriser"
+
+msgid "Set to deny"
+msgstr "Réglé sur refuser"
+
+msgid "Add the following rights"
+msgstr "Ajouter les droits suivants"
+
+msgid "ObjectID (normally empty)"
+msgstr "ObjectID (normalement vide)"
+
+#: edituser.inc.php
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+msgid "Confirm new password"
+msgstr "Confirmer le nouveau mot de passe"
+
+msgid "Create new API key"
+msgstr "Créer une nouvelle clef d'API"
+
+msgid "Group"
+msgstr "Groupe"
+
+msgid "Member"
+msgstr "Membre"
+
+msgid "Delete user"
+msgstr "Effacer l'utilisateur"
+
+msgid "Clear all sessions"
+msgstr "Nettoyer toutes les sessions"
+
+#: listfilters.inc.php
+msgid "Edit filter"
+msgstr "Éditer le filtre"
+
+msgid "Restore filter to default"
+msgstr "Restaurer le filtre aux valeurs par défaut"
+
+msgid "Use these filters as standard"
+msgstr "Utiliser ces filtres comme standard"
+
+msgid "Download this filters"
+msgstr "Télécharger ces filtres"
+
+msgid "Upload filters"
+msgstr "Téléverser les filtres"
+
+#: postcomment.inc.php
+msgid "Add comment"
+msgstr "Ajouter un commentaire"
+
+msgid "Post"
+msgstr "Envoyer"
+
+#: listgroups.inc.php
+msgid "Change name"
+msgstr "Modifier le nom"
+
+msgid "Permissions"
+msgstr "Permissions"
+
+msgid "Delete group"
+msgstr "Effacer le groupe"
+
+msgid "Show rights in group"
+msgstr "Montrer les droits dans le groupe"
+
+msgid "Change groupname"
+msgstr "Modifier le nom de groupe"
+
+msgid "Change group"
+msgstr "Modifier le groupe"
+
+msgid "Add new group"
+msgstr "Ajouter un nouveau groupe"
+
+#: login.inc.php
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Login"
+msgstr "Ouvrir une session"
+
+#: newspot.inc.php
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "NZB file"
+msgstr "Fichier NZB"
+
+msgid "Picture"
+msgstr "Image"
+
+msgid "Source"
+msgstr "Source"
+
+msgid "Language"
+msgstr "Langue"
+
+msgid "Genre"
+msgstr "Genre"
+
+#: listuser.inc.php
+msgid "Mail"
+msgstr "Courriel"
+
+msgid "Last visit"
+msgstr "Dernière visite"
+
+msgid "Member of group"
+msgstr "Membre du groupe"
+
+msgid "IP address of last visit"
+msgstr "L'adresse IP de la dernière visite"
+
+msgid "Change user"
+msgstr "Changer d'utilisateur"
+
+msgid "Edit preferences"
+msgstr "Éditer les préférences"
+
+#: spotinfo.inc.php
+msgid "This spot is not verified, the name of the sender has not been confirmed"
+msgstr "Ce spot n'est pas vérifié, le nom de l'expéditeur n'a pas été confirmé"
+
+msgid "This spot is marked as potentional spam"
+msgstr "Ce spot a été marqué comme du spam potentiel"
+
+msgid "This spotter is already blacklisted"
+msgstr "Ce spotteur est déjà sur liste noire"
+
+msgid "This spotter is already whitelisted"
+msgstr "Ce spotteur est déjà sur liste blanche"
+
+msgid "Back to mainview (ESC / U)"
+msgstr "Retour à la vue principale (Échap/U)"
+
+msgid "This spot has %d star"
+msgid_plural "This spot has %d stars"
+msgstr[0] "Ce spot a %d étoile"
+msgstr[1] "Ce spot a %d étoiles"
+
+msgid "This spot has no rating yet"
+msgstr "Ce spot n'a pas encore d'évaluation"
+
+msgid "Report this spot as spam"
+msgstr "Rapporter ce spot comme étant du spam"
+
+msgid "You already reported this spot as spam"
+msgstr "Vous avez déjà rapporté ce spot en tant que spam"
+
+msgid "Download NZB"
+msgstr "Télécharger le NZB"
+
+msgid "(this spot has already been downloaded)"
+msgstr "(ce spot a déjà été téléchargé)"
+
+msgid "Find NZB"
+msgstr "Trouver un NZB"
+
+msgid "Delete from watchlist (w)"
+msgstr "Effacer de la liste de suivi (w)"
+
+msgid "Place in watchlist (w)"
+msgstr "Placer dans la liste de suivi ( w)"
+
+msgid "Add NZB to SABnzbd queue (you already downloaded this spot) (s)"
+msgstr "Ajouter le NZB à la file de SABnzbd (vous avez déjà télécharger ce spot) (s)"
+
+msgid "Add NZB to SABnzbd queue (s)"
+msgstr "Ajouter à la file de SABnzbd"
+
+msgid "Find spots in this category"
+msgstr "Trouver des spots dans cette catégorie"
+
+msgid "Sort by"
+msgstr "Trier par"
+
+msgid "Sort on sender [0-Z]"
+msgstr "Trier par l'expéditeur [0-Z]"
+
+msgid "Sort on category"
+msgstr "Trier par la catégorie"
+
+msgid "Sort on sender [Z-0]"
+msgstr "Trier par l'expéditeur [Z-0]"
+
+msgid "Sort on title [0-Z]"
+msgstr "Trier par titre [0-Z]"
+
+msgid "Sort on title [Z-0]"
+msgstr "Trier par titre [Z-0]"
+
+msgid "Sort on age [ascending]"
+msgstr "Trier par ancienneté [croissant]"
+
+msgid "Sort on age [descending]"
+msgstr "Trier par ancienneté [décroissant]"
+
+msgid "Sort on size [ascending]"
+msgstr "Trier par taille [croissant]"
+
+msgid "Sort on size [descending]"
+msgstr "Trier par taille [décroissant]"
+
+msgid "Number of comments"
+msgstr "Nombre de commentaires"
+
+msgid "Age"
+msgstr "Ancienneté"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Size"
+msgstr "Taille"
+
+msgid "Spotted with"
+msgstr "Spotté avec"
+
+msgid "Website"
+msgstr "Site Internet"
+
+msgid "Sender"
+msgstr "Expéditeur"
+
+msgid "Blacklist this sender"
+msgstr "Mettre cet expéditeur sur liste noire"
+
+msgid "Search spots with the tag: %s"
+msgstr "Rechercher les spots avec l'étiquette : %s"
+
+msgid "Searchengine"
+msgstr "Moteur de recherche"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "NZB"
+msgstr "NZB"
+
+msgid "Download NZB (n)"
+msgstr "Télécharger le NZB (n)"
+
+msgid "Number of spamreports"
+msgstr "Nombre de rapports de spam"
+
+msgid "Post Description"
+msgstr "Description de l'envoi"
+
+msgid "No results found"
+msgstr "Aucun résultat trouvé"
+
+msgid "There is %d spamreport found for this spot"
+msgid_plural "There are %d spamreports found for this spot"
+msgstr[0] "Il existe %d rapport de spam trouvé pour cet envoi"
+msgstr[1] "Il existe %d rapports de spam trouvé pour cet envoi"
+
+msgid "downloaded on"
+msgstr "téléchargé le"
+
+msgid "opened on"
+msgstr "ouvert le"
+
+msgid "Go to category '%s'"
+msgstr "Aller à la catégorie '%s'"
+
+msgid "Position in watchlist (w)"
+msgstr "Position dans la liste de suivi (w)"
+
+msgid "%d comments on '%s'"
+msgstr "%d commentaires sur '%s'"
+
+msgid "Comments"
+msgstr "Commentaires"
+
+msgid "Search spot in catergory %s"
+msgstr "Rechercher le spot dans la catégorie %s"
+
+msgid "Search spot from %s"
+msgstr "Rechercher le spot de %s"
+
+msgid "Add comment (open/close windows)"
+msgstr "Ajouter un commentaire (ouvrir/fermer des fenêtres)"
+
+msgid "Open \"%s\" panel"
+msgstr "Ouvrir le panneau \"%s\""
+
+msgid "Close \"%s\" panel"
+msgstr "Fermer le panneau \"%s\""
+
+#: editsettings.inc.php
+msgid "General"
+msgstr "Général"
+
+msgid "Newsservers"
+msgstr "Serveurs Usenet"
+
+msgid "Retrieve"
+msgstr "Récupérer"
+
+msgid "Performance"
+msgstr "Performance"
+
+msgid "Try to prevent robots from indexing this installation"
+msgstr "Tenter d'empêcher les robots d'indexer cette installation"
+
+msgid "Sender email address"
+msgstr "Adresse de courriel de l'expéditeur"
+
+msgid "Always send welcome e-mail to new users"
+msgstr "Toujours envoyer un courriel de bienvenue aux nouveaux utilisateurs"
+
+msgid "Cookie expires after (in days)"
+msgstr "Les cookies expirent au bout de (en jours)"
+
+msgid "Hostname"
+msgstr "Nom d'hôte"
+
+msgid "Encryption"
+msgstr "Chiffrement"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Buggy (Some newsservers lose messages once in a while)"
+msgstr "A des bugs (certains serveurs Usenet perdent des messages de temps à autre)"
+
+msgid "Use different server for headers?"
+msgstr "Utiliser un serveur différent pour les en-têtes ?"
+
+msgid "Use different server for posting?"
+msgstr "Utiliser un serveur différent pour les envois ?"
+
+msgid "Verify name (CN) on certificate"
+msgstr "Vérifier le nom (CN) sur le certificat"
+
+msgid "Retention on spots (in days). Older spots will be erased. Select 0 to keep all spots."
+msgstr "Rétention des spots (en jours). Les spots plus anciens seront effacés. Sélectionnez 0 pour conserver tous les spots."
+
+msgid "Retention is for either everything or only the cached data"
+msgstr "La rétention est soit pour tout, soit seulement pour les données en tampon"
+
+msgid "Remove everything"
+msgstr "Tout enlever"
+
+msgid "Only extra data but keep spots"
+msgstr "Seulement les données supplémentaires mais garder les spots"
+
+msgid "Retrieve spots after... Select November 1, 2009 to fetch all spots"
+msgstr "Récupérer les spots après... Sélectionnez 1er novembre 2009 pour récupérer tous les spots"
+
+msgid "To skip all FTD spots select November 24, 2010"
+msgstr "Pour ignorer les spots FTD, sélectionnez 24 novembre 2010"
+
+msgid "Retrieve full spots. This makes retrieval a lot slower."
+msgstr "Récupérer les spots en entier. Cela rend la récupération beaucoup plus lente."
+
+msgid "Prefetch images (requires a lot of memory)"
+msgstr "Pré-télécharger les images (requière beaucoup de mémoire)"
+
+msgid "Prefetch NZB files (quires a lot of memory)"
+msgstr "Pré-télécharger les fichiers NZB (requière beaucoup de mémoire)"
+
+msgid "Retrieve full spots"
+msgstr "Récupérer les spots en entier"
+
+msgid "Prefetch images"
+msgstr "Pré-télécharger les images"
+
+msgid "Prefetch NZB files"
+msgstr "Pré-télécharger les fichiers NZB"
+
+msgid "Retrieve comments"
+msgstr "Récupérer les commentaires"
+
+msgid "Retrieve full comments"
+msgstr "Récupérer les commentaires en entier"
+
+msgid "Retrieve reports"
+msgstr "Récupérer les spots"
+
+msgid "Enable timing"
+msgstr "Activer le minutage"
+
+msgid "Use this only to identify speed problems within Spotweb."
+msgstr "Utilisez cela seulement pour identifier les problèmes de vitesse au sein de Spotweb."
+
+msgid "Not suitable for public installations"
+msgstr "Ne convient pas aux installations publiques"
+
+msgid "Enable stacktrace"
+msgstr "Activer stacktrace"
+
+msgid "Stacktraces make identifying problems easy, but may contain sensitive information."
+msgstr "Les stacktraces peuvent identifier les problèmes facilement, mais peuvent contenir des informations sensibles."
+
+msgid "Retrieve increment"
+msgstr "Incrément de récupération"
+
+msgid "Enable imagepreview in spot overview"
+msgstr "Activer les prévisualisation des images dans la vue d'ensemble des spots"
+
+msgid "Highlight spots based on amount of comments"
+msgstr "Mise en évidence des spots en fonction du nombre de commentaires"
+
+msgid "Amount of comments to highlight spot"
+msgstr "Nombre de commentaires pour mettre en évidence le spot"
+
+msgid "Blacklist used during retrieve:"
+msgstr "Mettre l'utilisateur sur liste noire pendant la récupération :"
+
+msgid "Whitelist used during retrieve:"
+msgstr "Mettre l'utilisateur sur liste blanche pendant la récupération :"
+
+msgid "Lower this if you get timeouts during retrieve"
+msgstr "Diminuez cette valeur si vous avez des dépassements de délai d'attente lors de la récupération"
+
+msgid "Handling of moderation messages"
+msgstr "Gestion des messages de modération"
+
+msgid "Do nothing"
+msgstr "Ne rien faire"
+
+msgid "Delete moderated spots"
+msgstr "Effacer les messages modérés"
+
+msgid "Mark moderated spots as moderated"
+msgstr "Marquer les messages modérés en tant que modérés"
+
+msgid "Prepare statistics during retrieve"
+msgstr "Préparer des statistiques pendant la récupération"
+
+msgid "Fetch the external blacklist during retrieve"
+msgstr "Télécharger la liste noire externe pendant la récupération"
+
+msgid "Fetch the external whitelist during retrieve"
+msgstr "Télécharger la liste blanche externe pendant la récupération"
+
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: editusersprefs.inc.php
+msgid "Language to use in Spotweb"
+msgstr "Langue d'utilisation de Spotweb"
+
+msgid "Dutch"
+msgstr "Néerlandais"
+
+msgid "English"
+msgstr "Anglais"
+
+msgid "NZB handling"
+msgstr "Gestion des NZB"
+
+msgid "Sort on:"
+msgstr "Trier par :"
+
+msgid "Filters"
+msgstr "Filtres"
+
+msgid "Download categories"
+msgstr "Catégories de téléchargement"
+
+msgid "Notifications"
+msgstr "Notifications"
+
+msgid "Own CSS"
+msgstr "Votre propre CSS"
+
+msgid "Posting of spots"
+msgstr "Envoi des spots"
+
+msgid "Items per page?"
+msgstr "Éléments par page ?"
+
+msgid "Standard searchorder?"
+msgstr "Ordre de recherche standard ?"
+
+msgid "Relevance"
+msgstr "Pertinence"
+
+msgid "Latest first"
+msgstr "Les derniers en date d'abord"
+
+msgid "Formatting of dates. To use long php_intl should be installed"
+msgstr "Formatage des dates. Pour l'utiliser, php_int doit être installé"
+
+msgid "Human"
+msgstr "Humain"
+
+msgid "Long"
+msgstr "Long"
+
+msgid "Short"
+msgstr "Court"
+
+msgid "Template for non-mobile devices"
+msgstr "Modèle pour les appareils non mobiles"
+
+msgid "Template for mobiles"
+msgstr "Modèle pour les mobiles"
+
+msgid "Template for tablets"
+msgstr "Modèle pour les tablettes"
+
+msgid "Count new spots in filter list"
+msgstr "Compter les nouveaux spots dans la liste des filtres"
+
+msgid "Show subcats on mouseover in spots list"
+msgstr "Afficher les sous catégories dans les listes des spots lorsque la souris passe dessus"
+
+msgid "Track what you're watching"
+msgstr "Suivre ce que vous regardez"
+
+msgid "Automatic mark spots as read after each visit?"
+msgstr "Marquer automatiquement les spots comme lus après chaque visite ?"
+
+msgid "Should we keep track of the downloads that are done?"
+msgstr "Devrions-nous garder une trace des téléchargements effectués ?"
+
+msgid "Shall we keep track of a watchlist?"
+msgstr "Devons-nous garder une trace d'une liste de suivi ?"
+
+msgid "Show filesize in spotoverview?"
+msgstr "Afficher la taille du fichier dans la vue d'ensemble du spot ?"
+
+msgid "Show number of spamreports in spotoverview?"
+msgstr "Afficher le nombre de rapports de spam dans la vue d'ensemble du spot ?"
+
+msgid "Show NZB button to download file with this browser?"
+msgstr "Afficher le bouton NZB pour télécharger le fichier avec ce navigateur ?"
+
+msgid "Show a checkbox next to each spot for multiplex NZB file download?"
+msgstr "Afficher une boîte à cocher à côté de chaque spot pour un téléchargement de fichier NZB en multiplex ?"
+
+msgid "Hide erotic spots in index?"
+msgstr "Cacher les spots érotiques dans l'index ?"
+
+msgid "What NZB searchengine shall we use?"
+msgstr "Quel moteur de recherche NZB devons-nous utiliser ?"
+
+msgid "What shall we do with NZB files?"
+msgstr "Que devons-nous faire avec les fichiers NZB ?"
+
+msgid "No intergration with download client"
+msgstr "Aucune intégration avec le client de téléchargement"
+
+msgid "Call SABnzbd throught HTTP by SpotWeb"
+msgstr "Appeler SABnzbd via HTTP par SpotWeb"
+
+msgid "Run SABnzbd through users' browser"
+msgstr "Exécuter SABnzbd via le navigateur des utilisateurs"
+
+msgid "Save to file op disk"
+msgstr "Sauvegarder le fichier sur le disque"
+
+msgid "Save file to disk and run a command"
+msgstr "Sauvegarder le fichier sur le disque et exécuter une commande"
+
+msgid "Call NZBGet through HTTP by SpotWeb"
+msgstr "Appeler NZBGet via HTTP par SpotWeb"
+
+msgid "What shall we do with multiple NZB files?"
+msgstr "Que devons-nous faire avec des fichiers NZB multiples ?"
+
+msgid "Merge NZB files"
+msgstr "Fusionner les fichiers NZB"
+
+msgid "Compress NZB files to 1 zip-file"
+msgstr "Compresser les fichiers NZB en un fichier zip"
+
+msgid "Where shall we store the file?"
+msgstr "Où devons-nous stocker le fichier ?"
+
+msgid "What programm should be executed?"
+msgstr "Quel programme doit être exécuté ?"
+
+msgid "URL to SABnzbd (HTTP included and portnumber where SABnzbd is installed)?"
+msgstr "URL vers SABnzbd (HTTP inclus et numéro de port où SABnzbd est installé) ?"
+
+msgid "API key for SABnzbd?"
+msgstr "Clef API pour SABnzbd ?"
+
+msgid "Hostname of nzbget?"
+msgstr "Nom d'hôte de nzbget ?"
+
+msgid "Portnumber of nzbget?"
+msgstr "Numéro de port de nzbget ?"
+
+msgid "Username for nzbget? Attention: At this moment only <u>nzbget</u> is a valid name!"
+msgstr "Nom d'utilisateur pour nzbget ? Attention :  à l'heure actuelle, seul <u>nzbget</u> est un nom valide !"
+
+msgid "Password for nzbget?"
+msgstr "Mot de passe pour nzbget ?"
+
+msgid "Call NZBVortex through HTTP by SpotWeb"
+msgstr "Appeler NZBVortex via HTTP par SportWeb"
+
+msgid "Hostname of NZBVortex?"
+msgstr "Nom d'hôte de NZBVortex ?"
+
+msgid "Portnumber of NZBVortex?"
+msgstr "Numéro de port de NZBVortex ?"
+
+msgid "API-Key for NZBVortex?"
+msgstr "Clef API pour NZBVortex ?"
+
+msgid "Send e-mail to"
+msgstr "Envoyer un courriel à"
+
+msgid "Use Growl?"
+msgstr "Utiliser Growl ?"
+
+msgid "Growl IP-address?"
+msgstr "Adresse IP de Growl ?"
+
+msgid "Growl password?"
+msgstr "Mot de passe de Growl ?"
+
+msgid "Use Notiy My Android?"
+msgstr "Utiliser Notify My Android ?"
+
+msgid "API key"
+msgstr "Clef API"
+
+msgid "Use Prowl?"
+msgstr "Utiliser Prowl ?"
+
+msgid "Prowl <a href=\"https://www.prowlapp.com/api_settings.php\">API key"
+msgstr "Clef API de Prowl <a href=\"https://www.prowlapp.com/api_settings.php\">"
+
+msgid "Use Twitter?"
+msgstr "Utiliser Twitter ?"
+
+msgid "Click on \"Ask permission\". This opens a new page with a PIN number."
+msgstr "Cliquer sur \"Demander la permission\". Cela ouvre une nouvelle page avec un numéro PIN."
+
+msgid "Attention: If nothing happens please check your pop-up blocker"
+msgstr "Attention : si rien ne se produit, vérifiez votre bloqueur de fenêtres intempestives"
+
+msgid "Use custom CSS?"
+msgstr "Utiliser un CSS personnalisé ?"
+
+msgid "Add the following tag"
+msgstr "Ajouter l'étiquette suivante"
+
+msgid "Use the following standard body"
+msgstr "Utiliser le corps standard suivant"
+
+msgid "Send message when a spot is added or deleted from the watchlist?"
+msgstr "Envoyer un message lorsqu'un sport est ajouté à ou effacé de la liste de suivi ?"
+
+msgid "Send message when a NZB file is send? Doesn't work for client-SABnzbd."
+msgstr "Envoyer un message lorsqu'un fichier NZB est envoyé ? Ne fonctionne pas pour client-SABnzbd."
+
+msgid "Send message when updating spots is finish?"
+msgstr "Envoyer un message lorsque la mise à jour des spots est terminée ?"
+
+msgid "Send message when Spam Reports has been send?"
+msgstr "Envoyer un message lorsque des rapports de spam ont été envoyés ?"
+
+msgid "Send message when posting a spot has finished?"
+msgstr "Envoyer un message lorsque l'envoi d'un spot est terminé ?"
+
+msgid "Send message when a user has been added?"
+msgstr "Envoyer un message lorsqu'un utilisateur a été ajouté ?"
+
+msgid "Show avatars in the comments?"
+msgstr "Afficher les avatars dans les commentaires ?"
+
+msgid "Avatar image to use in posting of comments (maximum 4000 bytes)"
+msgstr "L'image d'avatar à utiliser lors de l'envoi de commentaires (maximum 4000 octets)"
+
+#: filters.inc.php
+msgid "MultiNZB"
+msgstr "MultiNZB"
+
+msgid "Reset selection"
+msgstr "Réinitialiser la sélection"
+
+msgid "Add spot"
+msgstr "Ajouter un spot"
+
+msgid "Config"
+msgstr "Config"
+
+msgid "Switch between static or scrolling sidebar"
+msgstr "Basculer entre la barre latérale statique ou défilante"
+
+msgid "Search within current filters"
+msgstr "Rechercher au sein des filtres actuels"
+
+msgid "Close 'Advanced Search'"
+msgstr "Fermer la 'Recherche avancée'"
+
+msgid "Search on:"
+msgstr "Rechercher sur :"
+
+msgid "Between "
+msgstr "Entre "
+
+msgid " and "
+msgstr " et "
+
+msgid "Poster"
+msgstr "Expéditeur"
+
+msgid "Tag"
+msgstr "Étiquette"
+
+msgid "SpotterID"
+msgstr "SpotterID"
+
+msgid "Active filters:"
+msgstr "Filtres actifs :"
+
+msgid "Rating"
+msgstr "Évaluation"
+
+msgid "Limit age"
+msgstr "Âge limite"
+
+msgid "Show all"
+msgstr "Tout afficher"
+
+msgid "1 day"
+msgstr "1 jour"
+
+msgid "3 days"
+msgstr "3 jours"
+
+msgid "1 week"
+msgstr "1 semaine"
+
+msgid "2 weeks"
+msgstr "2 semaines"
+
+msgid "1 month"
+msgstr "1 mois"
+
+msgid "3 months"
+msgstr "3 mois"
+
+msgid "6 months"
+msgstr "6 mois"
+
+msgid "1 year"
+msgstr "1 an"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgid "Use categories"
+msgstr "Utiliser les catégories"
+
+msgid "Don't use categories"
+msgstr "Ne pas utiliser les catégories"
+
+msgid "Number of reports"
+msgstr "Nombre de rapports"
+
+msgid "Add a filter"
+msgstr "Ajouter un filtre"
+
+msgid "Save search as filter"
+msgstr "Enregistrer la recherche en tant que filtre"
+
+msgid "You are not logged in"
+msgstr "Vous n'avez pas ouvert de session"
+
+msgid "Last seen: %s ago"
+msgstr "Vu pour la dernière fois : il y a %s"
+
+msgid "Change preferences"
+msgstr "Modifier les préférences"
+
+msgid "Settings"
+msgstr "Réglages"
+
+msgid "User &amp; group management"
+msgstr "Gestion des utilisateurs et des groupes"
+
+msgid "Maintenance"
+msgstr "Maintenance"
+
+msgid "Log out"
+msgstr "Fermer la session"
+
+msgid "Selected NZB download method doesn't support sidepanel"
+msgstr "La méthode de téléchargement de NZB sélectionnée ne prend pas en charge le panneau latéral"
+
+msgid "Status:"
+msgstr "État :"
+
+msgid "Free storage:"
+msgstr "Espace libre :"
+
+msgid "Speed:"
+msgstr "Vitesse :"
+
+msgid "Max. speed:"
+msgstr "Vitesse max. :"
+
+msgid "ETA:"
+msgstr "Fin estimé :"
+
+msgid "Queue:"
+msgstr "File d'attente :"
+
+msgid "Queue"
+msgstr "File d'attente"
+
+msgid "Quick Links"
+msgstr "Liens rapides"
+
+msgid "Show new spots in filter &quot;%s&quot;"
+msgstr "Afficher les nouveaux spots dans le filtre &quot;%s&quot;"
+
+msgid "Collapse filter"
+msgstr "Réduire le filtre"
+
+msgid "Last update:"
+msgstr "Dernière mise à jour :"
+
+msgid "Update Spots"
+msgstr "Mettre à jour les spots"
+
+msgid "Erase downloadhistory"
+msgstr "Effacer l'historique des téléchargements"
+
+msgid "Mark everything as read"
+msgstr "Tout marquer comme lu"
+
+msgid "Do not filter on # reports"
+msgstr "Ne pas filtrer sur # rapports"
+
+msgid "Maximum %1 reports"
+msgstr "Maximum %1 rapports"
+
+msgid "Add user"
+msgstr "Ajouter un utilisateur"
+
+#: listfilters.inc.php
+msgid "Download your filters"
+msgstr "Télécharger vos filtres"
+
+#: spotusersystem.php
+msgid "An avatar image has a maximum of 4000 bytes"
+msgstr "Une image d'avatar doit avoir au maximum de 4000 octets"
+
+msgid "Invalid avatar image was supplied"
+msgstr "Une image d'avatar invalide a été fournie"
+
+msgid "Invalid preference value (perpage)"
+msgstr "Valeur de préférence invalide (perpage)"
+
+msgid "Invalid user preference value (date_formatting)"
+msgstr "Valeur de préférence invalide (date_formatting)"
+
+msgid "Invalid user preference value (template)"
+msgstr "Valeur de préférence invalide (template)"
+
+msgid "Invalid user preference value (language)"
+msgstr "Valeur de préférence invalide (language)"
+
+msgid "Invalid user preference value (defaultsortfield)"
+msgstr "Valeur de préférence invalide (defaultsortfield)"
+
+msgid "sabnzbd host is not a valid URL"
+msgstr "L'hôte sabnzbd n'est pas un URL valide"
+
+msgid "Custom CSS is too large"
+msgstr "Le CSS personnalisé est trop grand"
+
+msgid "Default value for a spots' tag is too long"
+msgstr "La valeur par défaut pour de l'étiquette d'un spot est trop grande"
+
+msgid "Default value for a spots' body is too long"
+msgstr "La valeur par défaut du corps d'un spot est trop grande"
+
+msgid "When NZB handling is either \"save\" or \"runcommand\" the directory must be entered"
+msgstr "Lorsque la gestion des NZB est soit \"enregistrer\" soit \"exécuter une commande\", le répertoire doit être saisi"
+
+msgid "When NZB handling is \"runcommand\" a command must be entered"
+msgstr "Lorsque la gestion des NSB est \"exécuter une commande\", une commande doit être saisie"
+
+msgid "Growl notifications require a growl host to be entered"
+msgstr "Les notifications Growl nécessitent qu'un hôte growl soit saisi"
+
+msgid "\"Notify My Android\" notifications require an API key"
+msgstr "Les notifications \"Notify My Android\" nécessitent une clef API"
+
+msgid "\"Prowl\" notifications require an API key to be entered"
+msgstr "Les notifications \"Prowl\" nécessitent la saisie d'une clef API"
+
+msgid "To use twitter you need to enter and validate a twitter account"
+msgstr "Pour utiliser Twitter, vous devez entrer et valider un compte Twitter"
+
+msgid "Invalid username chosen"
+msgstr "Nom d'utilisateur invalide choisi"
+
+msgid "Not a valid firstname"
+msgstr "Prénom invalide"
+
+msgid "Not a valid lastname"
+msgstr "Nom de famille invalide"
+
+msgid "Entered password is too short"
+msgstr "Le mot de passe saisi est trop court"
+
+msgid "Passwords do not match"
+msgstr "Les mots de passe ne correspondent pas"
+
+msgid "You cannot edit the anonymous account"
+msgstr "Vous ne pouvez pas éditer le compte anonyme"
+
+msgid "Not a valid email address"
+msgstr "Adresse courriel invalide"
+
+msgid "Mailaddress is already in use"
+msgstr "L'adresse de courriel est déjà utilisé"
+
+msgid "Invalid filter name"
+msgstr "Nom de filtre invalide"
+
+msgid "Permission already exists in this group"
+msgstr "La permission existe déjà dans ce groupe"
+
+msgid "Invalid groupname"
+msgstr "Nom de groupe invalide"
+
+msgid "Name is already in use"
+msgstr "Le nom est déjà utilisé"
+
+# javascript
+#: scripts.js
+msgid "Error while loading this page, you will be returned automaticly to the mainview"
+msgstr "Erreur lors du chargement de cette page, vous serez redirigé automatiquement vers la vue principale"
+
+msgid "Add comment (hide)"
+msgstr "Ajouter un commentaire (cacher)"
+
+msgid "Add comment (show)"
+msgstr "Ajouter un commentaire (montrer)"
+
+msgid "star"
+msgstr "étoile"
+
+msgid "stars"
+msgstr "étoiles"
+
+msgid "Rate spot"
+msgstr "Évaluer le spot"
+
+msgid "Don't give any star"
+msgstr "Ne pas attribuer d'étoiles"
+
+msgid "Don't give any stars"
+msgstr "Ne pas attribuer d'étoiles"
+
+msgid "Click on this image to show real size (i)"
+msgstr "Cliquez sur cette image pour afficher la taille réelle (i)"
+
+msgid "Click image to reduce"
+msgstr "Cliquez sur l'image pour réduire"
+
+msgid "<b>Step 2</b?:<br />Please fill below your PIN-number that twitter has given you and validate this."
+msgstr "<b>Step 2</b>:<br /> Veuillez saisir ci-dessous votre numéro de PIN que Twitter vous a donné et validez ceci."
+
+msgid "Validate PIN"
+msgstr "Valider le PIN"
+
+msgid "Do not always make the sidebar visible"
+msgstr "Ne pas toujours rendre la barre latérale visible"
+
+msgid "Make sidebar always visible"
+msgstr "Rendre la barre latérale toujours visible"
+
+msgid "Login Failed"
+msgstr "Échec de l'ouverture de session"
+
+msgid "Successfully logged in"
+msgstr "Ouverture de session réussie"
+
+msgid "Expand filter"
+msgstr "Agrandir le filtre"
+
+msgid "New spots retrieved"
+msgstr "Nouveaux spots récupérés"
+
+msgid "Erased downloadhistory"
+msgstr "Effacer l'historique des téléchargements"
+
+msgid "Marked everything as read"
+msgstr "Tout marquer comme lu"
+
+msgid "Successfully logged out"
+msgstr "Fermeture de session réussie"
+
+msgid "User <strong>&quot;%user%&quot;</strong> successfully added"
+msgstr "L'utilisateur <strong>&quot;%user%&quot;</strong> ajouté avec succès"
+
+msgid "Password: <strong>&quot;%pass%</strong>"
+msgstr "Mot de passe : <strong>&quot;%pass%</strong>"
+
+msgid "User successfully changed"
+msgstr "Utilisateur modifié avec succès"
+
+msgid "Free space (complete)"
+msgstr "Espace libre (complet)"
+
+msgid "Totale space (complete)"
+msgstr "Espace total (complet)"
+
+msgid "No items in queue"
+msgstr "Aucun élément dans la file"
+
+msgid "Up"
+msgstr "Haut"
+
+msgid "Down"
+msgstr "Bas"
+
+msgid "Delete from queue"
+msgstr "Effacer de la file"
+
+msgid "Show %1 till %2 from a total of %3 results"
+msgstr "Afficher de %1 à %2 sur un total de %3 résultats"
+
+msgid "Show 1 result"
+msgstr "Afficher 1 résultat"
+
+msgid "Previous"
+msgstr "Précédent"
+
+msgid "Next"
+msgstr "Suivant"
+
+#: js/postings/posting.js
+msgid "Posted by %1"
+msgstr "Envoyé par %1"
+
+msgid "Search spots from %1"
+msgstr "Rechercher les spots de %1"
+
+msgid "just now"
+msgstr "à l'instant"
+
+msgid "Marking as spam was not successfull:"
+msgstr "Le marquage en tant que spam n'a pas réussi :"
+
+msgid "Calculation of SHA1 hash was not successfull:"
+msgstr "Le calcul du hachage SHA1 n'a pas réussi :"
+
+msgid "No (verified) comments found."
+msgstr "Aucun commentaire (vérifié) n'a été trouvé."
+
+#: SpotPage_createuser.php
+msgid "'%s' already exists"
+msgstr "'%s' existe déjà"
+
+#: SpotPage_editfilter.php
+msgid "Filter doesn't exist"
+msgstr "Le filtre n'existe pas"
+
+msgid "Uploaded Spotwebfilter in invalid"
+msgstr "Le filtre Spotweb téléversé n'est pas valide"
+
+msgid "Error while uploading filter (%s)"
+msgstr "Erreur lors du téléversement  du filtre (%s)"
+
+msgid "Filter hasn't been uploaded"
+msgstr "Le filtre n'a pas été téléversé"
+
+msgid "Group doesn't exist"
+msgstr "Le groupe n'existe pas"
+
+msgid "Build-in groups can not be edited"
+msgstr "Les groupes intégrés ne peuvent être édités"
+
+#: SpotPage_edituser.php
+msgid "User can not be found"
+msgstr "L'utilisateur ne peut être trouvé"
+
+msgid "Anonymous user can not be edited"
+msgstr "L'utilisateur anonyme ne peut être édité"
+
+msgid "Admin and Anonymous can not be deleted"
+msgstr "L'admin et l'utilisateur anonyme ne peuvent être effacés"
+
+msgid "A user must be member of at least one group"
+msgstr "Un utilisateur doit être membre d'au moins un groupe"
+
+#: SpotPage_edituserprefs.php
+msgid "User %s cannot be found"
+msgstr "L'utilisateur %s ne peut être trouvé"
+
+msgid "Editting user preferences for '%s'"
+msgstr "Édition des préférences utilisateur pour '%s'"
+
+#: SpotPage_postspot.php
+msgid "Please select NZB file"
+msgstr "Veuillez choisir un fichier NZB"
+
+msgid "Please select a picture"
+msgstr "Veuillez choisir une image"
+
+msgid "Invalid subcategories given "
+msgstr "Sous catégories invalides saisies "
+
+msgid "Spot has been successfully uploaded. It can take some time before it is shown"
+msgstr "Le spot a été téléversé avec succès. Un certain temps s'écouler avant qu'il soit affiché"
+
+#: lib/SpotImage.php
+msgid "ERROR"
+msgstr "ERREUR"
+
+msgid "Remote host sent bad data"
+msgstr "L'hôte distant a envoyé des données erronées"
+
+msgid "Bad request"
+msgstr "Mauvaise requête"
+
+msgid "Permission denied from remote host"
+msgstr "Permission refusée par l'hôte distant"
+
+msgid "File not found"
+msgstr "Fichier non trouvé"
+
+msgid "Article not found"
+msgstr "Article introuvable"
+
+msgid "No response from remote host"
+msgstr "Aucune réponse de l'hôte distant"
+
+msgid "XML parse error"
+msgstr "Erreur d'analyse XML"
+
+msgid "No image provided"
+msgstr "Aucune image fournie"
+
+msgid "unknown"
+msgstr "inconnu"
+
+msgid "Reset filters"
+msgstr "Réinitialiser les filtres"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "My spots"
+msgstr "Mes spots"
+
+msgid "Watchlist"
+msgstr "Liste de suivi"
+
+msgid "Downloaded"
+msgstr "Téléchargé"
+
+msgid "Statistics"
+msgstr "Statistiques"
+
+msgid "Recently viewed"
+msgstr "Visionné récemment"
+
+msgid "Documentation"
+msgstr "Documentation"
+
+msgid "Unknown error"
+msgstr "Erreur inconnue"
+
+msgid "Total spots: %d"
+msgstr "Total des spots : %d"
+
+msgid "Total new spots: %d"
+msgstr "Total des nouveaux spots : %d"
+
+msgid "Spots per category"
+msgstr "Spots par catégorie"
+
+msgid "Spots per hour"
+msgstr "Spots par heure"
+
+msgid "Spots per weekday"
+msgstr "Spots par jour de la semaine"
+
+msgid "Spots per month"
+msgstr "Spots par mois"
+
+msgid "Everything"
+msgstr "Tout"
+
+msgid "last year"
+msgstr "l'année dernière"
+
+msgid "last month"
+msgstr "le mois dernier"
+
+msgid "last week"
+msgstr "la semaine dernière"
+
+msgid "last 24 hours"
+msgstr "les 24 dernières heures"
+
+#: lib/SpotTemplateHelper.php
+msgid "decade"
+msgid_plural "decades"
+msgstr[0] "décennie"
+msgstr[1] "décennies"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "année"
+msgstr[1] "années"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "mois"
+msgstr[1] "mois"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "semaine"
+msgstr[1] "semaines"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "jour"
+msgstr[1] "jours"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "heure"
+msgstr[1] "heures"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minute"
+msgstr[1] "minutes"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "seconde"
+msgstr[1] "secondes"
+
+#: lib/SpotCategories.php
+msgid "Image"
+msgstr "Image"
+
+msgid "Sound"
+msgstr "Son"
+
+msgid "Games"
+msgstr "Jeux"
+
+msgid "Applications"
+msgstr "Applications"
+
+msgid "Platform"
+msgstr "Plateforme"
+
+msgid "HD Oth"
+msgstr "HD Aut"
+
+msgid "Satelite"
+msgstr "Satellite"
+
+msgid "No subtitles"
+msgstr "Aucun sous-titre"
+
+msgid "Dutch subtitles (external)"
+msgstr "Sous-titres en néerlandais (externes)"
+
+msgid "Dutch subtitles (builtin)"
+msgstr "Sous-titres en néerlandais (intégrés)"
+
+msgid "English subtitles (external)"
+msgstr "Sous-titres en anglais (externes)"
+
+msgid "English subtitles (builtin)"
+msgstr "Sous-titres en anglais (intégrés)"
+
+msgid "Dutch subtitles (available)"
+msgstr "Sous-titres en néerlandais (disponibles)"
+
+msgid "English subtitles (available)"
+msgstr "Sous-titres en anglais (disponibles)"
+
+msgid "English audio/written"
+msgstr "Audio/écrit en anglais"
+
+msgid "Dutch audio/written"
+msgstr "Audio/écrit en néerlandais"
+
+msgid "German audio/written"
+msgstr "Audio/écrit en allemand"
+
+msgid "French audio/written"
+msgstr "Audio/écrit en français"
+
+msgid "Spanish audio/written"
+msgstr "Audio/écrit en espagnol"
+
+msgid "Asian audio/written"
+msgstr "Audio/écrit asiatique"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Adventure"
+msgstr "Aventure"
+
+msgid "Animation"
+msgstr "Animation"
+
+msgid "Comedy"
+msgstr "Comédie"
+
+msgid "Crime"
+msgstr "Crime"
+
+msgid "Documentary"
+msgstr "Documentaire"
+
+msgid "Family"
+msgstr "Famille"
+
+msgid "Fantasy"
+msgstr "Fantaisie"
+
+msgid "Arthouse"
+msgstr "Art et Essai"
+
+msgid "Television"
+msgstr "Télévision"
+
+msgid "Music"
+msgstr "Musique"
+
+msgid "Short movie"
+msgstr "Court-métrage"
+
+msgid "War"
+msgstr "Guerre"
+
+msgid "Erotica (hetero)"
+msgstr "Érotique (hétéro)"
+
+msgid "Erotica (gay male)"
+msgstr "Érotique (homosexuel homme)"
+
+msgid "Erotica (gay female)"
+msgstr "Érotique (homosexuel femme)"
+
+msgid "Erotica (bi)"
+msgstr "Érotique (bi)"
+
+msgid "Comicbook"
+msgstr "Bande dessinée"
+
+msgid "Youth"
+msgstr "Jeunesse"
+
+msgid "Business"
+msgstr "Affaires"
+
+msgid "Cooking"
+msgstr "Cuisine"
+
+msgid "Handwork"
+msgstr "Travail manuel"
+
+msgid "Craftwork"
+msgstr "Artisanat"
+
+msgid "Health"
+msgstr "Santé"
+
+msgid "History"
+msgstr "Histoire"
+
+msgid "Psychology"
+msgstr "Psychologie"
+
+msgid "Newspaper"
+msgstr "Journal"
+
+msgid "Magazine"
+msgstr "Magazine"
+
+msgid "Science"
+msgstr "Science"
+
+msgid "Female"
+msgstr "Féminin"
+
+msgid "Religion"
+msgstr "Religion"
+
+msgid "Biography"
+msgstr "Biographie"
+
+msgid "Travel"
+msgstr "Voyage"
+
+msgid "True story"
+msgstr "Histoire vraie"
+
+msgid "Non-fiction"
+msgstr "Non fictionnel"
+
+msgid "Politics"
+msgstr "Politique"
+
+msgid "Poetry"
+msgstr "Poésie"
+
+msgid "Fairy tale"
+msgstr "Conte de fées"
+
+msgid "Technical"
+msgstr "Technique"
+
+msgid "Art"
+msgstr "Art"
+
+msgid "Lesbian"
+msgstr "Lesbien"
+
+msgid "Fetish"
+msgstr "Fétiche"
+
+msgid "Old"
+msgstr "Vieux"
+
+msgid "Fat"
+msgstr "Gros"
+
+msgid "Rough"
+msgstr "Rude"
+
+msgid "Dark"
+msgstr "Sombre"
+
+msgid "Outside"
+msgstr "À l'extérieur"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "Series"
+msgstr "Série"
+
+msgid "Book"
+msgstr "Livre"
+
+msgid "Erotica"
+msgstr "Érotique"
+
+msgid "Compilation"
+msgstr "Compilation"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Variable"
+msgstr "Variable"
+
+msgid "World"
+msgstr "Monde"
+
+msgid "Religious"
+msgstr "Religieux"
+
+msgid "Audiobook"
+msgstr "Livre audio"
+
+msgid "Strategy"
+msgstr "Stratégie"
+
+msgid "Roleplaying"
+msgstr "Jeu de rôle"
+
+msgid "Simulation"
+msgstr "Simulation"
+
+msgid "Flying"
+msgstr "Vol"
+
+msgid "Child/youth"
+msgstr "Enfants/jeunesse"
+
+msgid "Puzzle"
+msgstr "Puzzle"
+
+msgid "Boardgame"
+msgstr "Jeu de plateau"
+
+msgid "Cards"
+msgstr "Cartes"
+
+msgid "Education"
+msgstr "Éducation"
+
+msgid "everything"
+msgstr "tout"
+
+msgid "Graphics"
+msgstr "Graphiques"
+
+msgid "Media players"
+msgstr "Lecteurs média"
+
+msgid "Photo"
+msgstr "Photo"
+
+msgid "Educational"
+msgstr "Éducation"
+
+msgid "Office"
+msgstr "Office"
+
+msgid "Communication"
+msgstr "Communication"
+
+msgid "Development"
+msgstr "Développement"
+
+# SpotSecurity.php
+msgid "Display overview of spots"
+msgstr "Afficher la vue d'ensemble des spots"
+
+msgid "Log in"
+msgstr "Ouvrir une session"
+
+msgid "Perform a search"
+msgstr "Effectuer une recherche"
+
+msgid "View spot in detail"
+msgstr "Voir le spot en détails"
+
+msgid "Retrieve NZB file"
+msgstr "Récupérer le fichier NZB"
+
+msgid "Download manager integration"
+msgstr "Intégration des gestionnaires de téléchargement"
+
+msgid "Mark spots as read"
+msgstr "Marquer le spot comme lu"
+
+msgid "View image of spot"
+msgstr "Visionner l'image du spot"
+
+msgid "RSS feed"
+msgstr "Flux RSS"
+
+msgid "Static resources"
+msgstr "Ressources statiques"
+
+msgid "Create new user"
+msgstr "Créer un nouvel utilisateur"
+
+msgid "Change own preferences"
+msgstr "Modifier vos propres préférences"
+
+msgid "Change own user settings"
+msgstr "Modifier vos propres réglages d'utilisateur"
+
+msgid "List all users"
+msgstr "Lister tous les utilisateurs"
+
+msgid "Post comments to a spot"
+msgstr "Envoyer des commentaires à un spot"
+
+msgid "Use downloads manager API "
+msgstr "Utiliser l'API du gestionnaire des téléchargements "
+
+msgid "Keep watchlist"
+msgstr "Garder la liste de suivi"
+
+msgid "Keep downloadlist"
+msgstr "Garder la liste des téléchargements"
+
+msgid "Keep seenlist"
+msgstr "Garder la liste des vues"
+
+msgid "Show new spotcount in list of filters"
+msgstr "Afficher le nouveau décompte des spots dans la liste des filtres"
+
+msgid "Display Retrieve new spots button"
+msgstr "Afficher le bouton Récupérer les nouveaux spots"
+
+msgid "Display comments of a spot"
+msgstr "Afficher les commentaires d'un spot"
+
+msgid "Let user choose their template"
+msgstr "Laisser l'utilisateur choisir son modèle"
+
+msgid "Use Spotweb using an API key"
+msgstr "Utiliser Spotweb au moyen d'une clef API"
+
+msgid "Change other users"
+msgstr "Modifier les autres utilisateurs"
+
+msgid "Display total amount of spots"
+msgstr "Afficher le nombre total de spots"
+
+msgid "Delete users"
+msgstr "Effacer les utilisateurs"
+
+msgid "Change users' group membeship"
+msgstr "Modifier l'appartenance à un groupe des utilisateurs"
+
+msgid "Display users' group membership"
+msgstr "Afficher l'appartenance à un groupe des utilisateurs"
+
+msgid "Change security groups"
+msgstr "Modifier les groupes de sécurité"
+
+msgid "Send notifications (per service)"
+msgstr "Envoyer des notifications (par service)"
+
+msgid "Send notifications (per type)"
+msgstr "Envoyer des notifications (par type)"
+
+msgid "Let users create their own CSS"
+msgstr "Laisser les utilisateurs créer leur propre CSS"
+
+msgid "Create own Spot filters"
+msgstr "Créer ses propres filtres Spot"
+
+msgid "Set a set of filters as default for new users"
+msgstr "Définir un ensemble de filtres comme par défaut pour les nouveaux utilisateurs"
+
+msgid "Report a spot as spam"
+msgstr "Rapporter un spot comme spam"
+
+msgid "Post a new spot"
+msgstr "Envoyer un nouveau spot"
+
+msgid "Blacklist a spotter"
+msgstr "Mettre un spotter sur liste noire"
+
+msgid "Display statistics"
+msgstr "Afficher les statistiques"
+
+msgid "Display Spotweb's changelog"
+msgstr "Afficher le journal des modifications de Spotweb"
+
+msgid "Change settings"
+msgstr "Modifier les réglages"
+
+msgid "Default newsserver"
+msgstr "Serveur Usenet par défaut"
+
+# editspotterblacklist.inc.php
+msgid "Remove spotter from blacklist"
+msgstr "Enlever le spotter de la liste noire"
+
+msgid "Remove spotter from whitelist"
+msgstr "Enlever le spotter de la liste blanche"
+
+msgid "Spotter ID"
+msgstr "ID du spotter"
+
+msgid "Origin"
+msgstr "Origine"
+
+msgid "Remove spotterid"
+msgstr "Enlever la spotterid"
+
+msgid "%s commented earlier:"
+msgstr "%s a commenté plus tôt :"
+
+msgid "Access denied for [%s (%d::%s)]"
+msgstr "Accès refusé pour [%s (%d::%s)]"
+
+msgid "Loading"
+msgstr "Chargement"
+
+msgid "Listed spotters"
+msgstr "Spotters listés"
+
+msgid "Blacklisted"
+msgstr "Sur liste noire"
+
+msgid "Whitelisted"
+msgstr "Sure liste blanche"
+
+msgid "Reported via Spotweb for spot"
+msgstr "Rapporté via Spotweb pour le spot"
+
+msgid "Whitelisted by user"
+msgstr "Mis sur liste blanche par l'utilisateur"
+
+msgid "Minimum number of spamreports before showing spamreports icon?"
+msgstr "Nombre minimal de rapports de spam avant d'afficher l'icône des rapports de spam ?"
+
+msgid "Change user preferences"
+msgstr "Modifier les préférences de l'utilisateur"
+
+msgid "Administrators"
+msgstr "Administrateurs"
+
+msgid "Anonymous user - closed system"
+msgstr "Utilisateur anonyme - système fermé"
+
+msgid "Anonymous user - open system"
+msgstr "Utilisateur anonyme - système ouvert"
+
+msgid "Authenticated users"
+msgstr "Utilisateurs authentifiés"
+
+msgid "Trusted users"
+msgstr "Utilisateurs de confiance"
+
+msgid "Spotweb can use the Microsoft Translator API to translate comments and Spot description to the users native language. This requires a so-called Client ID and a SecretID which you need to request at Microsoft. Please enter the values in below fields."
+msgstr "Spotweb peut utiliser l'API Microsoft Translator pour traduire les commentaires et les descriptions de Spots dans la langue native des utilisateurs. Cela nécessite un identifiant client et un identifiant secret que vous devez demander à Microsoft. Veuillez entrer les valeurs dans les champs ci-dessous."
+
+msgid "Note:"
+msgstr "Note :"
+
+msgid "The edited spot will not be posted to usenet. The changes will only be visible for users of this Spotweb site."
+msgstr "Le spot édité ne sera pas envoyé sur Usenet. Les modifications ne seront visibles que pour les utilisateurs de ce site Spotweb."
+
+msgid "Deleting a spot will remove the spot from this Spotweb site only. It will not be removed from other websites and/or other Spotnet clients."
+msgstr "Effacer un spot n'enlévera le spot que de ce site Spotweb uniquement. Il ne sera pas enlevé des autres sites Internet et/ou d'autres clients Spotnet."
+
+#: lib/SpotCategories.php
+msgid "Optimization software"
+msgstr "Logiciels d'optimisation"
+
+msgid "Security software"
+msgstr "Logiciels de sécurité"
+
+msgid "System software"
+msgstr "Logiciels système"
+
+msgid "Navigation systems"
+msgstr "Les systèmes de navigation"

@@ -1,0 +1,1965 @@
+# This file is distributed under the same license as the SpotWeb package.
+# Copyright (c) 2013, Spotweb
+# All rights reserved.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SpotWeb\n"
+"Report-Msgid-Bugs-To: Test <test@gmail.com>\n"
+"POT-Creation-Date: 2013-01-20 06:10+0800\n"
+"PO-Revision-Date: 2025-01-26 20:27+0300\n"
+"Last-Translator: Test <test@gmail.com>\n"
+"Language-Team: English\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: general translations
+msgid "overview"
+msgstr "genel bakış"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Change"
+msgstr "Değiştir"
+
+msgid "Delete"
+msgstr "Sil"
+
+msgid "Mo"
+msgstr "Pt"
+
+msgid "Tu"
+msgstr "Sa"
+
+msgid "We"
+msgstr "Ça"
+
+msgid "Th"
+msgstr "Pe"
+
+msgid "Fr"
+msgstr "Cu"
+
+msgid "Sa"
+msgstr "Ct"
+
+msgid "Su"
+msgstr "Pa"
+
+msgid "Monday"
+msgstr "Pazartesi"
+
+msgid "Tuesday"
+msgstr "Salı"
+
+msgid "Wednesday"
+msgstr "Çarşamba"
+
+msgid "Thursday"
+msgstr "Perşembe"
+
+msgid "Friday"
+msgstr "Cuma"
+
+msgid "Saturday"
+msgstr "Cumartesi"
+
+msgid "Sunday"
+msgstr "Pazar"
+
+msgid "Jan"
+msgstr "Oca"
+
+msgid "Feb"
+msgstr "Şub"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Apr"
+msgstr "Nis"
+
+msgid "May"
+msgstr "May"
+
+msgid "Jun"
+msgstr "Haz"
+
+msgid "Jul"
+msgstr "Tem"
+
+msgid "Aug"
+msgstr "Ağu"
+
+msgid "Sep"
+msgstr "Eyl"
+
+msgid "Oct"
+msgstr "Eki"
+
+msgid "Nov"
+msgstr "Kas"
+
+msgid "Dec"
+msgstr "Ara"
+
+msgid "January"
+msgstr "Ocak"
+
+msgid "February"
+msgstr "Şubat"
+
+msgid "March"
+msgstr "Mart"
+
+msgid "April"
+msgstr "Nisan"
+
+# dup msgid "May"
+# dup msgstr "Mei"
+msgid "June"
+msgstr "Haziran"
+
+msgid "July"
+msgstr "Temmuz"
+
+msgid "August"
+msgstr "Ağustos"
+
+msgid "September"
+msgstr "Eylül"
+
+msgid "October"
+msgstr "Ekim"
+
+msgid "November"
+msgstr "Kasım"
+
+msgid "December"
+msgstr "Aralık"
+
+#: adminpanel.inc.php
+msgid "Back to mainview"
+msgstr "Ana görünüme dön"
+
+msgid "Userlist"
+msgstr "Kullanıcı listesi"
+
+msgid "Grouplist"
+msgstr "Grup listesi"
+
+#: comment.inc.php
+msgid "%s gave this spot %d star"
+msgid_plural "%s gave this spot %d stars"
+msgstr[0] "%s, bu spota %d yıldız vermiş"
+msgstr[1] "%s, bu spota %d yıldız vermiş"
+
+msgid "Posted by %s"
+msgstr "%s tarafından gönderilmiş"
+
+msgid "Find spots from %s"
+msgstr "%s unsurundan spotlar bul"
+
+#: createuser.inc.php
+msgid "Username"
+msgstr "Kullanıcı İsmi"
+
+msgid "Firstname"
+msgstr "İsim"
+
+msgid "Lastname"
+msgstr "Soyisim"
+
+msgid "E-mailaddress"
+msgstr "E-posta adresi"
+
+msgid "Send e-mail to new user?"
+msgstr "Yeni kullanıcıya e-posta gönderilsin mi?"
+
+#: editfilter.inc.php
+msgid "Name"
+msgstr "İsim"
+
+msgid "Icon"
+msgstr "İkon"
+
+#: editsecgroup.inc.php
+msgid "Permission"
+msgstr "İzin"
+
+msgid "Object"
+msgstr "Mevzu"
+
+msgid "Deny/Allow"
+msgstr "Reddet/İzin ver"
+
+msgid "Allowed"
+msgstr "İzin verildi"
+
+msgid "Denied"
+msgstr "Reddedildi"
+
+msgid "Set to allow"
+msgstr "İzin vermek için ayarlandı"
+
+msgid "Set to deny"
+msgstr "Reddetmek için ayarlandı"
+
+msgid "Add the following rights"
+msgstr "Aşağıdaki izinleri ekle"
+
+msgid "ObjectID (normally empty)"
+msgstr "ObjectID (normalde boştur)"
+
+#: edituser.inc.php
+msgid "New password"
+msgstr "Yeni parola"
+
+msgid "Confirm new password"
+msgstr "Yeni parolayı teyit et"
+
+msgid "Create new API key"
+msgstr "Yeni API anahtarı oluştur"
+
+msgid "Group"
+msgstr "Grup"
+
+msgid "Member"
+msgstr "Üye"
+
+msgid "Delete user"
+msgstr "Kullanıcıyı sil"
+
+msgid "Clear all sessions"
+msgstr "Tüm oturumları temizle"
+
+#: listfilters.inc.php
+msgid "Edit filter"
+msgstr "Filtreyi düzenle"
+
+msgid "Restore filter to default"
+msgstr "Filtreyi varsayılana geri al"
+
+msgid "Use these filters as standard"
+msgstr "Bu filtreleri standart olarak kullan"
+
+msgid "Download this filters"
+msgstr "Bu listeleri indir"
+
+msgid "Upload filters"
+msgstr "Filtreleri yükle"
+
+#: postcomment.inc.php
+msgid "Add comment"
+msgstr "Yorum ekle"
+
+msgid "Post"
+msgstr "Gönder"
+
+#: listgroups.inc.php
+msgid "Change name"
+msgstr "İsim değiştir"
+
+msgid "Permissions"
+msgstr "İzinler"
+
+msgid "Delete group"
+msgstr "Grubu sil"
+
+msgid "Show rights in group"
+msgstr "Gruptaki izinleri göster"
+
+msgid "Change groupname"
+msgstr "Grup ismini değiştir"
+
+msgid "Change group"
+msgstr "Grubu değiştir"
+
+msgid "Add new group"
+msgstr "Yeni grup ekle"
+
+#: login.inc.php
+msgid "Password"
+msgstr "Parola"
+
+msgid "Login"
+msgstr "Oturum aç"
+
+#: newspot.inc.php
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Type"
+msgstr "Tür"
+
+msgid "Format"
+msgstr "Biçim"
+
+msgid "Title"
+msgstr "Başlık"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "NZB file"
+msgstr "NZB dosyası"
+
+msgid "Picture"
+msgstr "Resim"
+
+msgid "Source"
+msgstr "Kaynak"
+
+msgid "Language"
+msgstr "Lisan"
+
+msgid "Genre"
+msgstr "Tür"
+
+#: listuser.inc.php
+msgid "Mail"
+msgstr "E-posta"
+
+msgid "Last visit"
+msgstr "Son ziyaret"
+
+msgid "Member of group"
+msgstr "Şu grubun mensubu: "
+
+msgid "IP address of last visit"
+msgstr "Son ziyaretin IP adresi"
+
+msgid "Change user"
+msgstr "Kullanıcı değiştir"
+
+msgid "Edit preferences"
+msgstr "Tercihleri düzenle"
+
+#: spotinfo.inc.php
+msgid "This spot is not verified, the name of the sender has not been confirmed"
+msgstr "Bu spot kontrol edilmemiştir, göndericinin ismi teyit edilmemiştir"
+
+msgid "This spot is marked as potentional spam"
+msgstr "Bu spot, muhtemel spam olarak işaretlenmiştir"
+
+msgid "This spotter is already blacklisted"
+msgstr "Bu spotçu zaten kara listededir"
+
+msgid "This spotter is already whitelisted"
+msgstr "Bu spotçu zaten beyaz listededir"
+
+msgid "Back to mainview (ESC / U)"
+msgstr "Ana görünme dön (ESC / U)"
+
+msgid "This spot has %d star"
+msgid_plural "This spot has %d stars"
+msgstr[0] "Bu spotun %d yıldızı var"
+msgstr[1] "Bu spotun %d yıldızı var"
+
+msgid "This spot has no rating yet"
+msgstr "Bu spotun henüz bir değerlendirmesi yok"
+
+msgid "Report this spot as spam"
+msgstr "Bu spotu spam olarak bildir"
+
+msgid "You already reported this spot as spam"
+msgstr "Bu spotu zaten spam olarak bildirdiniz"
+
+msgid "Download NZB"
+msgstr "NZB İndir"
+
+msgid "(this spot has already been downloaded)"
+msgstr "(bu spot zaten indirilmiştir)"
+
+msgid "Find NZB"
+msgstr "NZB Bul"
+
+msgid "Delete from watchlist (w)"
+msgstr "Takip listesinden sil (w)"
+
+msgid "Place in watchlist (w)"
+msgstr "Takip listesine koy (w)"
+
+msgid "Add NZB to SABnzbd queue (you already downloaded this spot) (s)"
+msgstr "SABnzbd kuyruğuna NZB ekle (bu spotu zaten indirmiştiniz) (s)"
+
+msgid "Add NZB to SABnzbd queue (s)"
+msgstr "SABnzbd kuyruğuna NZB ekle (s)"
+
+msgid "Find spots in this category"
+msgstr "Bu kategoride spot bul"
+
+msgid "Sort by"
+msgstr "Şuna göre sırala"
+
+msgid "Sort on sender [0-Z]"
+msgstr "Göndericiye göre sırala -Z]"
+
+msgid "Sort on category"
+msgstr "Kategoriye göre sırala"
+
+msgid "Sort on sender [Z-0]"
+msgstr "Göndericiye göre sırala [Z-0]"
+
+msgid "Sort on title [0-Z]"
+msgstr "Başlığa göre sırala [0-Z]"
+
+msgid "Sort on title [Z-0]"
+msgstr "Başlığa göre sırala [Z-0]"
+
+msgid "Sort on age [ascending]"
+msgstr "Yaşa göre sırala [artan]"
+
+msgid "Sort on age [descending]"
+msgstr "Yaşa göre sırala [azalan]"
+
+msgid "Sort on size [ascending]"
+msgstr "Boyuta göre sırala [artan]"
+
+msgid "Sort on size [descending]"
+msgstr "Boyuta göre sırala [azalan]"
+
+msgid "Number of comments"
+msgstr "Değerlendirme sayısı"
+
+msgid "Age"
+msgstr "Yaş"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "Size"
+msgstr "Boyut"
+
+msgid "Spotted with"
+msgstr "Şununla spotlandı: "
+
+msgid "Website"
+msgstr "İnternet sitesi"
+
+msgid "Sender"
+msgstr "Gönderici"
+
+msgid "Blacklist this sender"
+msgstr "Bu göndericiyi kara listeye al"
+
+msgid "Search spots with the tag: %s"
+msgstr "Şu etiketi olan spotları ara: %s"
+
+msgid "Searchengine"
+msgstr "Arama motoru"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "NZB"
+msgstr "NZB"
+
+msgid "Download NZB (n)"
+msgstr "NZB İndir (n)"
+
+msgid "Number of spamreports"
+msgstr "Spam bildirim sayısı"
+
+msgid "Post Description"
+msgstr "Gönderi açıklaması"
+
+msgid "No results found"
+msgstr "Hiçbir netice bulunamadı"
+
+msgid "There is %d spamreport found for this spot"
+msgid_plural "There are %d spamreports found for this spot"
+msgstr[0] "Bu spot için %d spam bildirisi bulundu"
+msgstr[1] "Bu spot için %d spam bildirisi bulundu"
+
+msgid "downloaded on"
+msgstr "şu tarihte indirilmiş"
+
+msgid "opened on"
+msgstr "şu tarihte açılmış"
+
+msgid "Go to category '%s'"
+msgstr "'%s' kategorisine git"
+
+msgid "Position in watchlist (w)"
+msgstr "Takip listesindeki konum (w)"
+
+msgid "%d comments on '%s'"
+msgstr "'%s' hakkında %d değerlendirme"
+
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgid "Search spot in catergory %s"
+msgstr "Spotu %s kategorisinde ara"
+
+msgid "Search spot from %s"
+msgstr "%s göndericisinden spot ara"
+
+msgid "Add comment (open/close windows)"
+msgstr "Değerlendirme ekle (pencere aç/kapat)"
+
+msgid "Open \"%s\" panel"
+msgstr "\"%s\" panelini aç"
+
+msgid "Close \"%s\" panel"
+msgstr "\"%s\" panelini kapat"
+
+#: editsettings.inc.php
+msgid "General"
+msgstr "Genel"
+
+msgid "Newsservers"
+msgstr "Usenet sunucuları"
+
+msgid "Retrieve"
+msgstr "Al"
+
+msgid "Performance"
+msgstr "Performans"
+
+msgid "Try to prevent robots from indexing this installation"
+msgstr "Bu kurulumun robotlar tarafından endekslenmesine mani olmaya çalış"
+
+msgid "Sender email address"
+msgstr "Gönderici e-posta adresi"
+
+msgid "Always send welcome e-mail to new users"
+msgstr "Yeni kullanıcılara daima hoş geldin e-postası gönder"
+
+msgid "Cookie expires after (in days)"
+msgstr "Çerez (gün olarak) şu süre sonrasında sona erecek: "
+
+msgid "Hostname"
+msgstr "Makine adı"
+
+msgid "Encryption"
+msgstr "Şifreleme"
+
+msgid "Port"
+msgstr "Bağlantı Noktası"
+
+msgid "Buggy (Some newsservers lose messages once in a while)"
+msgstr "Hatalı (bazı Usenet sunucuları arada bir mesaj kaybeder)"
+
+msgid "Use different server for headers?"
+msgstr "Başlıklar için başka bir sunucu kullanılsın mı?"
+
+msgid "Use different server for posting?"
+msgstr "Gönderiler için başka bir sunucu kullanılsın mı?"
+
+msgid "Verify name (CN) on certificate"
+msgstr "Sertifika üzerinde ismi (CN) kontrol et"
+
+msgid "Retention on spots (in days). Older spots will be erased. Select 0 to keep all spots."
+msgstr "Spotların (gün olarak) muhafaza süresi. Daha eski spotlar silinecektir. Tüm spotları muhafaza etmek için 0 seçin."
+
+msgid "Retention is for either everything or only the cached data"
+msgstr "Muhafaza ya her şey için ya da sadece tampondaki veriler içindir"
+
+msgid "Remove everything"
+msgstr "Her şeyi kaldır"
+
+msgid "Only extra data but keep spots"
+msgstr "Sadece ilave verileri fakat spotları muhafaza et"
+
+msgid "Retrieve spots after... Select November 1, 2009 to fetch all spots"
+msgstr "Şu tarihten sonraki spotları al... Tüm spotları almak için 1 kasım 2009 seçin"
+
+msgid "To skip all FTD spots select November 24, 2010"
+msgstr "Tüm FTD spotlarını atlamak için 24 kasım 2010 seçin"
+
+msgid "Retrieve full spots. This makes retrieval a lot slower."
+msgstr "Tam spotları al. Bu, almayı çok daha yavaş bir hale getirir."
+
+msgid "Prefetch images (requires a lot of memory)"
+msgstr "Resimleri ön al (çok hafıza gerektirir)"
+
+msgid "Prefetch NZB files (quires a lot of memory)"
+msgstr "NZB dosyalarını ön al (çok hafıza gerektirir)"
+
+msgid "Retrieve full spots"
+msgstr "Tam spotları al"
+
+msgid "Prefetch images"
+msgstr "Resimleri ön al"
+
+msgid "Prefetch NZB files"
+msgstr "NZB dosyalarını ön al"
+
+msgid "Retrieve comments"
+msgstr "Yorumları al"
+
+msgid "Retrieve full comments"
+msgstr "Tam yorumları al"
+
+msgid "Retrieve reports"
+msgstr "Raporları al"
+
+msgid "Enable timing"
+msgstr "Zamanlamayı etkinleştir"
+
+msgid "Use this only to identify speed problems within Spotweb."
+msgstr "Bunu sadece Spotweb ile sürat sorunlarını tespit etmek için kullanın."
+
+msgid "Not suitable for public installations"
+msgstr "Herkese açık kurulumlar için uygun değildir"
+
+msgid "Enable stacktrace"
+msgstr "Stacktrace'i etkinleştir"
+
+msgid "Stacktraces make identifying problems easy, but may contain sensitive information."
+msgstr "Stackrtrace'ler sorunların tespitini kolaylaştırır, fakat hassas bilgiler içerebilir."
+
+msgid "Retrieve increment"
+msgstr "Alma artışı"
+
+msgid "Enable imagepreview in spot overview"
+msgstr "Spot genel bakışında resim ön izlemesini etkinleştir"
+
+msgid "Highlight spots based on amount of comments"
+msgstr "Spotları yorum sayısına göre vurgula"
+
+msgid "Amount of comments to highlight spot"
+msgstr "Spot vurgulamak için yorum miktarı"
+
+msgid "Blacklist used during retrieve:"
+msgstr "Alma esnasında kara liste kullanıldı:"
+
+msgid "Whitelist used during retrieve:"
+msgstr "Alma esnasında beyaz liste kullanıldı:"
+
+msgid "Lower this if you get timeouts during retrieve"
+msgstr "Alma esnasında zaman aşımları yaşıyorsanız bunu azaltın"
+
+msgid "Handling of moderation messages"
+msgstr "Moderasyon mesajlarının yönetimi"
+
+msgid "Do nothing"
+msgstr "Hiçbir şey yapma"
+
+msgid "Delete moderated spots"
+msgstr "Modere edilmiş spotları sil"
+
+msgid "Mark moderated spots as moderated"
+msgstr "Modere edilmiş spotları modere edilmiş olarak işaretle"
+
+msgid "Prepare statistics during retrieve"
+msgstr "Alma esnasında istatistik hazırla"
+
+msgid "Fetch the external blacklist during retrieve"
+msgstr "Alma esnasında harici kara listeyi al"
+
+msgid "Fetch the external whitelist during retrieve"
+msgstr "Alma esnasında beyaz listeyi al"
+
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: editusersprefs.inc.php
+msgid "Language to use in Spotweb"
+msgstr "Spotweb'de kullanılacak lisan"
+
+msgid "Dutch"
+msgstr "Felemenkçe"
+
+msgid "English"
+msgstr "İngilizce"
+
+msgid "NZB handling"
+msgstr "NZB yönetimi"
+
+msgid "Sort on:"
+msgstr "Şuna göre sırala: "
+
+msgid "Filters"
+msgstr "Süzgeçler"
+
+msgid "Download categories"
+msgstr "İndirme kategorileri"
+
+msgid "Notifications"
+msgstr "Bildirimler"
+
+msgid "Own CSS"
+msgstr "Kendi CSS unsuru"
+
+msgid "Posting of spots"
+msgstr "Spot gönderimleri"
+
+msgid "Items per page?"
+msgstr "Sayfa başı unsur?"
+
+msgid "Standard searchorder?"
+msgstr "Standart arama sıralaması?"
+
+msgid "Relevance"
+msgstr "Alaka"
+
+msgid "Latest first"
+msgstr "Sonuncular ilk"
+
+msgid "Formatting of dates. To use long php_intl should be installed"
+msgstr "Tarih biçimlendirmesi. Kullanmak için php_intl kurulması gerekir"
+
+msgid "Human"
+msgstr "İnsan"
+
+msgid "Long"
+msgstr "Uzun"
+
+msgid "Short"
+msgstr "Kısa"
+
+msgid "Template for non-mobile devices"
+msgstr "Mobil olmayan cihazlar için şablon"
+
+msgid "Template for mobiles"
+msgstr "Mobil cihazlar için şablon"
+
+msgid "Template for tablets"
+msgstr "Tabletler için şablon"
+
+msgid "Count new spots in filter list"
+msgstr "Count new spots in filter list"
+
+msgid "Show subcats on mouseover in spots list"
+msgstr "Spot listesindeki alt kategorileri fare ile üstünden geçilince göster"
+
+msgid "Track what you're watching"
+msgstr "Ne izlediğinizi takip edin"
+
+msgid "Automatic mark spots as read after each visit?"
+msgstr "Her ziyaret sonrası spotlar otomatik olarak okunmuş olarak işaretlensin mi?"
+
+msgid "Should we keep track of the downloads that are done?"
+msgstr "Tamamlanan indirmeleri takip etmeli miyiz?"
+
+msgid "Shall we keep track of a watchlist?"
+msgstr "Bir izleme listesi muhafaza edelim mi?"
+
+msgid "Show filesize in spotoverview?"
+msgstr "Spot genel bakışında dosya boyutu gösterilsin mi?"
+
+msgid "Show number of spamreports in spotoverview?"
+msgstr "Spot genel bakışında spam raporu sayısı gösterilsin mi?"
+
+msgid "Show NZB button to download file with this browser?"
+msgstr "Bu tarayıcıyla dosya indirmek için NZB düğmesi gösterilsin mi?"
+
+msgid "Show a checkbox next to each spot for multiplex NZB file download?"
+msgstr "Her spotun yanında çoklu NZB dosya indirmesi için bir kutucuk gösterilsin mi?"
+
+msgid "Hide erotic spots in index?"
+msgstr "Erotik spotlar indekste saklansın mı?"
+
+msgid "What NZB searchengine shall we use?"
+msgstr "Hangi NZB arama motorunu kullanmalıyız?"
+
+msgid "What shall we do with NZB files?"
+msgstr "NZB dosyalarıyla ne yapmalıyız?"
+
+msgid "No intergration with download client"
+msgstr "İndirme istemcisi ile birleşme yok"
+
+msgid "Call SABnzbd throught HTTP by SpotWeb"
+msgstr "SABnzb'yi HTTP vasıtasıyla SpotWeb tarafından çağır"
+
+msgid "Run SABnzbd through users' browser"
+msgstr "SABnzbd'yi kullanıcıların tarayıcları vasıtasıyla çalıştır"
+
+msgid "Save to file op disk"
+msgstr "Disk üzerinde dosya olarak kaydet"
+
+msgid "Save file to disk and run a command"
+msgstr "Dosyayı diske kaydet ve bir komut çalıştır"
+
+msgid "Call NZBGet through HTTP by SpotWeb"
+msgstr "NZBGet'i HTTP vasıtasıyla SpotWeb tarafından çağır"
+
+msgid "What shall we do with multiple NZB files?"
+msgstr "Çoklu NZB dosyalarıyla ne yapmalıyız?"
+
+msgid "Merge NZB files"
+msgstr "NZB dosyalarını birleştir"
+
+msgid "Compress NZB files to 1 zip-file"
+msgstr "NZB dosyalarını 1 zip dosyasına sıkıştır"
+
+msgid "Where shall we store the file?"
+msgstr "Dosyayı nerede kaydetmeliyiz?"
+
+msgid "What programm should be executed?"
+msgstr "Hangi program çalıştırılmalı?"
+
+msgid "URL to SABnzbd (HTTP included and portnumber where SABnzbd is installed)?"
+msgstr "SABnzbd için URL (SABnzbd'nin kurulu olduğu yer için, HTTP dahil ve bağlantı noktası sayısı)?"
+
+msgid "API key for SABnzbd?"
+msgstr "SABnzbd için API anahtarı"
+
+msgid "Hostname of nzbget?"
+msgstr "NZBGet'in makine ismi?"
+
+msgid "Portnumber of nzbget?"
+msgstr "NZBGet bağlantı noktası (port) numarası?"
+
+msgid "Username for nzbget? Attention: At this moment only <u>nzbget</u> is a valid name!"
+msgstr "NZBGet için kullanıcı ismi? Dikkat: şu anda sadece <u>nzbget</u> geçerli bir isimdir!"
+
+msgid "Password for nzbget?"
+msgstr "NZBGet için parola?"
+
+msgid "Call NZBVortex through HTTP by SpotWeb"
+msgstr "NZBVortex'i HTTP vasıtasıyla SpotWeb tarafından çağır"
+
+msgid "Hostname of NZBVortex?"
+msgstr "NZBVortex'in makine ismi?"
+
+msgid "Portnumber of NZBVortex?"
+msgstr "NZBVortex'in bağlantı nokta numarası?"
+
+msgid "API-Key for NZBVortex?"
+msgstr "NZBVortex için API Anahtarı?"
+
+msgid "Send e-mail to"
+msgstr "Şuna e-posta gönder: "
+
+msgid "Use Growl?"
+msgstr "Growl kullan?"
+
+msgid "Growl IP-address?"
+msgstr "Growl IP adresi?"
+
+msgid "Growl password?"
+msgstr "Growl parolası?"
+
+msgid "Use Notiy My Android?"
+msgstr "Notify My Android kullanılsın mı?"
+
+msgid "API key"
+msgstr "API anahtarı"
+
+msgid "Use Prowl?"
+msgstr "Prowl kullan?"
+
+msgid "Prowl <a href=\"https://www.prowlapp.com/api_settings.php\">API key"
+msgstr "Prowl <a href=\"https://www.prowlapp.com/api_settings.php\"> API anahtarı"
+
+msgid "Use Twitter?"
+msgstr "Twitter kullan?"
+
+msgid "Click on \"Ask permission\". This opens a new page with a PIN number."
+msgstr "\"İzin iste\" üzerine tıklayın. Bu, bir PIN sayısı içeren yeni bir sayfa açacaktır."
+
+msgid "Attention: If nothing happens please check your pop-up blocker"
+msgstr "Dikkat: şayet hiçbir şey olmazsa, açılır pencere engelleyicinizi kontrol edin"
+
+msgid "Use custom CSS?"
+msgstr "Kişiselleştirilmiş CSS kullan?"
+
+msgid "Add the following tag"
+msgstr "Şu etiketi ekle: "
+
+msgid "Use the following standard body"
+msgstr "Şu standart gövdeyi kullan: "
+
+msgid "Send message when a spot is added or deleted from the watchlist?"
+msgstr "Takip listesinden bir spot eklendiğinde veya silindiğinde bir mesaj gönderilsin mi?"
+
+msgid "Send message when a NZB file is send? Doesn't work for client-SABnzbd."
+msgstr "Bir NZB dosyası gönderildiğinde mesaj yollansın mı? SABnzbd istemcisi için çalışmaz."
+
+msgid "Send message when updating spots is finish?"
+msgstr "Spotların güncellenmesi bittiğinde mesaj gönderilsin mi?"
+
+msgid "Send message when Spam Reports has been send?"
+msgstr "Spam Bildirimleri gönderildiğinde mesaj yollansın mı?"
+
+msgid "Send message when posting a spot has finished?"
+msgstr "Bir spot gönderimi bittiğinde mesaj yollansın mı?"
+
+msgid "Send message when a user has been added?"
+msgstr "Bir kullanıcı eklendiğinde mesaj gönderilsin mi?"
+
+msgid "Show avatars in the comments?"
+msgstr "Yorumlarda havariler gösterilsin mi?"
+
+msgid "Avatar image to use in posting of comments (maximum 4000 bytes)"
+msgstr "Yorum gönderiminde kullanılacak havari resmi (azami 4000 bayt)"
+
+#: filters.inc.php
+msgid "MultiNZB"
+msgstr "Çoklu NZB"
+
+msgid "Reset selection"
+msgstr "Seçimi sıfırla"
+
+msgid "Add spot"
+msgstr "Spot ekle"
+
+msgid "Config"
+msgstr "Yapılandırma"
+
+msgid "Switch between static or scrolling sidebar"
+msgstr "Statik veya kayan kenar çubuğu arasında geçiş yap"
+
+msgid "Search within current filters"
+msgstr "Güncel filtrelerin dahilinde ara"
+
+msgid "Close 'Advanced Search'"
+msgstr "'Gelişmiş Aramayı' Kapat"
+
+msgid "Search on:"
+msgstr "Şuna göre ara:"
+
+msgid "Between "
+msgstr "Arasında "
+
+msgid " and "
+msgstr " ve "
+
+msgid "Poster"
+msgstr "Gönderici"
+
+msgid "Tag"
+msgstr "Etiket"
+
+msgid "SpotterID"
+msgstr "SpotterID"
+
+msgid "Active filters:"
+msgstr "Faal filtreler:"
+
+msgid "Rating"
+msgstr "Puanlama"
+
+msgid "Limit age"
+msgstr "Yaşı sınırla"
+
+msgid "Show all"
+msgstr "Hepsini göster"
+
+msgid "1 day"
+msgstr "1 gün"
+
+msgid "3 days"
+msgstr "3 gün"
+
+msgid "1 week"
+msgstr "1 hafta"
+
+msgid "2 weeks"
+msgstr "2 hafta"
+
+msgid "1 month"
+msgstr "1 ay"
+
+msgid "3 months"
+msgstr "3 ay"
+
+msgid "6 months"
+msgstr "6 ay"
+
+msgid "1 year"
+msgstr "1 sene"
+
+msgid "Categories"
+msgstr "Kategoriler"
+
+msgid "Use categories"
+msgstr "Kategorileri kullan"
+
+msgid "Don't use categories"
+msgstr "Kategorileri kullanma"
+
+msgid "Number of reports"
+msgstr "Rapor sayısı"
+
+msgid "Add a filter"
+msgstr "Bir filtre ekle"
+
+msgid "Save search as filter"
+msgstr "Aramayı filtre olarak kaydet"
+
+msgid "You are not logged in"
+msgstr "Oturum açmadınız"
+
+msgid "Last seen: %s ago"
+msgstr "Son görülme: %s evvel"
+
+msgid "Change preferences"
+msgstr "Tercihleri değiştir"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "User &amp; group management"
+msgstr "Kullanıcı ve grup yönetimi"
+
+msgid "Maintenance"
+msgstr "Bakım"
+
+msgid "Log out"
+msgstr "Çıkış"
+
+msgid "Selected NZB download method doesn't support sidepanel"
+msgstr "Seçili NZB indirme yöntemi yan paneli desteklemiyor"
+
+msgid "Status:"
+msgstr "Durum:"
+
+msgid "Free storage:"
+msgstr "Boş depolama:"
+
+msgid "Speed:"
+msgstr "Sürat:"
+
+msgid "Max. speed:"
+msgstr "Azami sürat:"
+
+msgid "ETA:"
+msgstr "Tahmini sonlanma:"
+
+msgid "Queue:"
+msgstr "Kuyruk:"
+
+msgid "Queue"
+msgstr "Kuyruk"
+
+msgid "Quick Links"
+msgstr "Hızlı Bağlantılar"
+
+msgid "Show new spots in filter &quot;%s&quot;"
+msgstr "&quot;%s&quot; filtresindeki yeni spotları göster"
+
+msgid "Collapse filter"
+msgstr "Filtreyi küçült"
+
+msgid "Last update:"
+msgstr "Son güncelleme:"
+
+msgid "Update Spots"
+msgstr "Spotları Güncelle"
+
+msgid "Erase downloadhistory"
+msgstr "İndirme tarihçesini sil"
+
+msgid "Mark everything as read"
+msgstr "Her şeyi okunmuş olarak işaretle"
+
+msgid "Do not filter on # reports"
+msgstr "# raporlara göre filtreleme"
+
+msgid "Maximum %1 reports"
+msgstr "Azami %1 rapor"
+
+msgid "Add user"
+msgstr "Kullanıcı ekle"
+
+#: listfilters.inc.php
+msgid "Download your filters"
+msgstr "Filtrelerinizi indirin"
+
+#: spotusersystem.php
+msgid "An avatar image has a maximum of 4000 bytes"
+msgstr "Havari resimleri azami 4000 bayttır"
+
+msgid "Invalid avatar image was supplied"
+msgstr "Geçersiz havari resmi verildi"
+
+msgid "Invalid preference value (perpage)"
+msgstr "Geçersiz tercih değeri (perpage)"
+
+msgid "Invalid user preference value (date_formatting)"
+msgstr "Geçersiz kullanıcı tercih değeri (date_formatting)"
+
+msgid "Invalid user preference value (template)"
+msgstr "Geçersiz kullanıcı tercih değeri (şablon)"
+
+msgid "Invalid user preference value (language)"
+msgstr "Geçersiz kullanıcı tercih değeri (lisan)"
+
+msgid "Invalid user preference value (defaultsortfield)"
+msgstr "Geçersiz kullanıcı tercih değeri (defaultsortfield)"
+
+msgid "sabnzbd host is not a valid URL"
+msgstr "sabnzbd makinesi geçerli bir URL değildir"
+
+msgid "Custom CSS is too large"
+msgstr "Özel CSS fazla büyük"
+
+msgid "Default value for a spots' tag is too long"
+msgstr "Spotların etiketi için varsayılan değer fazla uzun"
+
+msgid "Default value for a spots' body is too long"
+msgstr "Spotların gövdesi için varsayılan değer fazla uzun"
+
+msgid "When NZB handling is either \"save\" or \"runcommand\" the directory must be entered"
+msgstr "NZB yönetimi ya \"kaydet\" ya da \"komut çalıştır\" olduğunda dizin girilmelidir"
+
+msgid "When NZB handling is \"runcommand\" a command must be entered"
+msgstr "NZB yönetimi \"komut çalıştır\" olduğunda bir komut girilmelidir"
+
+msgid "Growl notifications require a growl host to be entered"
+msgstr "Growl bildirimleri, bir growl makinesinin girilmesine ihtiyaç duyar"
+
+msgid "\"Notify My Android\" notifications require an API key"
+msgstr "\"Notify My Android\" bildirimleri bir API anahtarına ihtiyaç duyar"
+
+msgid "\"Prowl\" notifications require an API key to be entered"
+msgstr "\"Prowl\" bildirimleri bir API anahtarının girilmesine ihtiyaç duyar"
+
+msgid "To use twitter you need to enter and validate a twitter account"
+msgstr "Twitter kullanmak için bir twitter hesabı girip teyit etmeniz icap eder"
+
+msgid "Invalid username chosen"
+msgstr "Geçersiz kullanıcı ismi seçilmiş"
+
+msgid "Not a valid firstname"
+msgstr "Geçerli bir isim değil"
+
+msgid "Not a valid lastname"
+msgstr "Geçerli bir soyismi değil"
+
+msgid "Entered password is too short"
+msgstr "Girilen parola çok kısa"
+
+msgid "Passwords do not match"
+msgstr "Parolalar eşleşmiyor"
+
+msgid "You cannot edit the anonymous account"
+msgstr "Anonim hesabı düzenleyemezsiniz"
+
+msgid "Not a valid email address"
+msgstr "Geçerli bir e-posta adresi değil"
+
+msgid "Mailaddress is already in use"
+msgstr "E-posta adresi zaten kullanımda"
+
+msgid "Invalid filter name"
+msgstr "Geçersiz filtre ismi"
+
+msgid "Permission already exists in this group"
+msgstr "İzin bu grupta zaten mevcut"
+
+msgid "Invalid groupname"
+msgstr "Geçersiz grup ismi"
+
+msgid "Name is already in use"
+msgstr "İsim zaten kullanımda"
+
+# javascript
+#: scripts.js
+msgid "Error while loading this page, you will be returned automaticly to the mainview"
+msgstr "Bu sayfa yüklenirken hata meydana geldi, otomatik olarak ana görünüme yönlendirileceksiniz"
+
+msgid "Add comment (hide)"
+msgstr "Yorum ekle (gizle)"
+
+msgid "Add comment (show)"
+msgstr "Yorum ekle (göster)"
+
+msgid "star"
+msgstr "yıldız"
+
+msgid "stars"
+msgstr "yıldız"
+
+msgid "Rate spot"
+msgstr "Spotu derecelendir"
+
+msgid "Don't give any star"
+msgstr "Hiçbir yıldız verme"
+
+msgid "Don't give any stars"
+msgstr "Hiçbir yıldız verme"
+
+msgid "Click on this image to show real size (i)"
+msgstr "Hakiki boyutu göstermek için bu resme tıklayın (i)"
+
+msgid "Click image to reduce"
+msgstr "Küçültmek için resme tıklayın"
+
+msgid "<b>Step 2</b?:<br />Please fill below your PIN-number that twitter has given you and validate this."
+msgstr "<b>2. Adım</b>:<br /> lütfen aşağıda twitter'ın size verdiği PIN numaranızı girin ve bunu teyit edin."
+
+msgid "Validate PIN"
+msgstr "PIN Teyit Et"
+
+msgid "Do not always make the sidebar visible"
+msgstr "Kenar çubuğunu daima görünür hale getirme"
+
+msgid "Make sidebar always visible"
+msgstr "Kenar çubuğunu daima görünür yap"
+
+msgid "Login Failed"
+msgstr "Oturum açılması başarısız"
+
+msgid "Successfully logged in"
+msgstr "Başarıyla oturum açıldı"
+
+msgid "Expand filter"
+msgstr "Filtreyi genişlet"
+
+msgid "New spots retrieved"
+msgstr "Yeni spotlar alındı"
+
+msgid "Erased downloadhistory"
+msgstr "İndirme tarihçesini sil"
+
+msgid "Marked everything as read"
+msgstr "Her şey okunmuş olarak işaretlendi"
+
+msgid "Successfully logged out"
+msgstr "Başarıyla oturumdan çıkıldı"
+
+msgid "User <strong>&quot;%user%&quot;</strong> successfully added"
+msgstr "<strong>&quot;%user%&quot;</strong>  kullanıcısı başarıyla eklendi"
+
+msgid "Password: <strong>&quot;%pass%</strong>"
+msgstr "Parola: <strong>&quot;%pass%</strong>"
+
+msgid "User successfully changed"
+msgstr "Kullanıcı başarıyla değiştirildi"
+
+msgid "Free space (complete)"
+msgstr "Boş alan (tam)"
+
+msgid "Totale space (complete)"
+msgstr "Toplam alan (tam)"
+
+msgid "No items in queue"
+msgstr "Kuyrukta hiçbir unsur yok"
+
+msgid "Up"
+msgstr "Yukarı"
+
+msgid "Down"
+msgstr "Aşağı"
+
+msgid "Delete from queue"
+msgstr "Kuyruktan sil"
+
+msgid "Show %1 till %2 from a total of %3 results"
+msgstr "Toplam %3 sonuçtan %1 ile %2 arasındakileri göster"
+
+msgid "Show 1 result"
+msgstr "1 netice göster"
+
+msgid "Previous"
+msgstr "Önceki"
+
+msgid "Next"
+msgstr "Sonraki"
+
+#: js/postings/posting.js
+msgid "Posted by %1"
+msgstr "%1 tarafından gönderilmiş"
+
+msgid "Search spots from %1"
+msgstr "%1 spotlarını ara"
+
+msgid "just now"
+msgstr "hemen şimdi"
+
+msgid "Marking as spam was not successfull:"
+msgstr "Spam olarak işaretleme başarılı değildi:"
+
+msgid "Calculation of SHA1 hash was not successfull:"
+msgstr "SHA1 karma değerinin hesaplanması başarılı değildi:"
+
+msgid "No (verified) comments found."
+msgstr "Hiçbir (doğrulanmış) yorum bulunamadı."
+
+#: SpotPage_createuser.php
+msgid "'%s' already exists"
+msgstr "'%s' zaten mevcut"
+
+#: SpotPage_editfilter.php
+msgid "Filter doesn't exist"
+msgstr "Filtre mevcut değil"
+
+msgid "Uploaded Spotwebfilter in invalid"
+msgstr "Yüklenen Spotwebfilter geçerli değil"
+
+msgid "Error while uploading filter (%s)"
+msgstr "Filtrenin yüklenmesi esnasında hata (%s)"
+
+msgid "Filter hasn't been uploaded"
+msgstr "Filtre yüklenmedi"
+
+msgid "Group doesn't exist"
+msgstr "Grup mevcut değil"
+
+msgid "Build-in groups can not be edited"
+msgstr "Yerleşik gruplar düzenlenemez"
+
+#: SpotPage_edituser.php
+msgid "User can not be found"
+msgstr "Kullanıcı bulunamadı"
+
+msgid "Anonymous user can not be edited"
+msgstr "Anonim kullanıcı düzenlenemez"
+
+msgid "Admin and Anonymous can not be deleted"
+msgstr "Yönetici ve Anonim silinemez"
+
+msgid "A user must be member of at least one group"
+msgstr "Bir kullanıcının en az bir grubun mensubu olması gerekir"
+
+#: SpotPage_edituserprefs.php
+msgid "User %s cannot be found"
+msgstr "%s kullanıcısı bulunamadı"
+
+msgid "Editting user preferences for '%s'"
+msgstr "'%s' için kullanıcı tercihleri düzenleniyor"
+
+#: SpotPage_postspot.php
+msgid "Please select NZB file"
+msgstr "Lütfen NZB dosyası seçin"
+
+msgid "Please select a picture"
+msgstr "Lütfen bir resim seçin"
+
+msgid "Invalid subcategories given "
+msgstr "Geçersiz alt kategoriler girildi"
+
+msgid "Spot has been successfully uploaded. It can take some time before it is shown"
+msgstr "Spot başarılı bir şekilde yüklendi. Gösterilmesinden önce belli bir süre geçebilir"
+
+#: lib/SpotImage.php
+msgid "ERROR"
+msgstr "HATA"
+
+msgid "Remote host sent bad data"
+msgstr "Uzaktaki makine hatalı veri gönderdi"
+
+msgid "Bad request"
+msgstr "Hatalı talep"
+
+msgid "Permission denied from remote host"
+msgstr "Uzaktaki makine izni reddetti"
+
+msgid "File not found"
+msgstr "Dosya bulunamadı"
+
+msgid "Article not found"
+msgstr "Makale bulunamadı"
+
+msgid "No response from remote host"
+msgstr "Uzaktaki makineden hiçbir cevap yok"
+
+msgid "XML parse error"
+msgstr "XML ayrıştırma hatası"
+
+msgid "No image provided"
+msgstr "Hiçbir resim sağlanmamış"
+
+msgid "unknown"
+msgstr "bilinmeyen"
+
+msgid "Reset filters"
+msgstr "Filtreleri sıfırla"
+
+msgid "New"
+msgstr "Yeni"
+
+msgid "My spots"
+msgstr "Benim spotlarım"
+
+msgid "Watchlist"
+msgstr "Takip listesi"
+
+msgid "Downloaded"
+msgstr "İndirilmiş"
+
+msgid "Statistics"
+msgstr "İstatistikler"
+
+msgid "Recently viewed"
+msgstr "Son görüntülenenler"
+
+msgid "Documentation"
+msgstr "Belgelendirme"
+
+msgid "Unknown error"
+msgstr "Bilinmeyen hata"
+
+msgid "Total spots: %d"
+msgstr "Toplam spot: %d"
+
+msgid "Total new spots: %d"
+msgstr "Toplam yeni spot: %d"
+
+msgid "Spots per category"
+msgstr "Kategori başına spot"
+
+msgid "Spots per hour"
+msgstr "Saat başına spot"
+
+msgid "Spots per weekday"
+msgstr "Hafta günü başına spot"
+
+msgid "Spots per month"
+msgstr "Ay başına spot"
+
+msgid "Everything"
+msgstr "Hepsi"
+
+msgid "last year"
+msgstr "geçen sene"
+
+msgid "last month"
+msgstr "geçen ay"
+
+msgid "last week"
+msgstr "geçen hafta"
+
+msgid "last 24 hours"
+msgstr "son 24 saat"
+
+#: lib/SpotTemplateHelper.php
+msgid "decade"
+msgid_plural "decades"
+msgstr[0] "on yıl"
+msgstr[1] "on yıl"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "sene"
+msgstr[1] "sene"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "ay"
+msgstr[1] "ay"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "hafta"
+msgstr[1] "hafta"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "gün"
+msgstr[1] "gün"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "saat"
+msgstr[1] "saat"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "dakika"
+msgstr[1] "dakika"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "saniye"
+msgstr[1] "saniye"
+
+#: lib/SpotCategories.php
+msgid "Image"
+msgstr "Resim"
+
+msgid "Sound"
+msgstr "Ses"
+
+msgid "Games"
+msgstr "Oyunlar"
+
+msgid "Applications"
+msgstr "Uygulamalar"
+
+msgid "Platform"
+msgstr "Platform"
+
+msgid "HD Oth"
+msgstr "HD Diğ"
+
+msgid "Satelite"
+msgstr "Uydu"
+
+msgid "No subtitles"
+msgstr "Alt yazı yok"
+
+msgid "Dutch subtitles (external)"
+msgstr "Felemenkçe alt yazılar (harici)"
+
+msgid "Dutch subtitles (builtin)"
+msgstr "Felemenkçe alt yazılar (yerleşik)"
+
+msgid "English subtitles (external)"
+msgstr "İngilizce alt yazılar (harici)"
+
+msgid "English subtitles (builtin)"
+msgstr "İngilizce alt yazılar (yerleşik)"
+
+msgid "Dutch subtitles (available)"
+msgstr "Felemenkçe alt yazılar (mevcut)"
+
+msgid "English subtitles (available)"
+msgstr "İngilizce alt yazılar (mevcut)"
+
+msgid "English audio/written"
+msgstr "İngilizce sesli/yazılı"
+
+msgid "Dutch audio/written"
+msgstr "Felemenkçe sesli/yazılı"
+
+msgid "German audio/written"
+msgstr "Almanca sesli/yazılı"
+
+msgid "French audio/written"
+msgstr "Fransızca sesli/yazılı"
+
+msgid "Spanish audio/written"
+msgstr "İspanyolca sesli/yazılı"
+
+msgid "Asian audio/written"
+msgstr "Asya sesli/yazılı"
+
+msgid "Action"
+msgstr "Eylem"
+
+msgid "Adventure"
+msgstr "Macera"
+
+msgid "Animation"
+msgstr "Çizgi film"
+
+msgid "Comedy"
+msgstr "Komedi"
+
+msgid "Crime"
+msgstr "Suç"
+
+msgid "Documentary"
+msgstr "Belgesel"
+
+msgid "Family"
+msgstr "Aile"
+
+msgid "Fantasy"
+msgstr "Fantezi"
+
+msgid "Arthouse"
+msgstr "Sanat evi"
+
+msgid "Television"
+msgstr "Televizyon"
+
+msgid "Music"
+msgstr "Müzik"
+
+msgid "Short movie"
+msgstr "Kısa film"
+
+msgid "War"
+msgstr "Harp"
+
+msgid "Erotica (hetero)"
+msgstr "Erotik (hetero)"
+
+msgid "Erotica (gay male)"
+msgstr "Erotik (eşcinsel erkek)"
+
+msgid "Erotica (gay female)"
+msgstr "Erotik (eşcinsel kadın)"
+
+msgid "Erotica (bi)"
+msgstr "Erotik (bi)"
+
+msgid "Comicbook"
+msgstr "Çizgi roman"
+
+msgid "Youth"
+msgstr "Gençlik"
+
+msgid "Business"
+msgstr "İş"
+
+msgid "Cooking"
+msgstr "Mutfak"
+
+msgid "Handwork"
+msgstr "El işleri"
+
+msgid "Craftwork"
+msgstr "Zanaat"
+
+msgid "Health"
+msgstr "Sağlık"
+
+msgid "History"
+msgstr "Tarihçe"
+
+msgid "Psychology"
+msgstr "Psikoloji"
+
+msgid "Newspaper"
+msgstr "Gazete"
+
+msgid "Magazine"
+msgstr "Magazin"
+
+msgid "Science"
+msgstr "Bilim"
+
+msgid "Female"
+msgstr "Kadın"
+
+msgid "Religion"
+msgstr "Din"
+
+msgid "Biography"
+msgstr "Biyografi"
+
+msgid "Travel"
+msgstr "Seyahat"
+
+msgid "True story"
+msgstr "Gerçek hikaye"
+
+msgid "Non-fiction"
+msgstr "Kurgu olmayan"
+
+msgid "Politics"
+msgstr "Siyaset"
+
+msgid "Poetry"
+msgstr "Şiir"
+
+msgid "Fairy tale"
+msgstr "Masal"
+
+msgid "Technical"
+msgstr "Teknik"
+
+msgid "Art"
+msgstr "Sanat"
+
+msgid "Lesbian"
+msgstr "Lezbiyen"
+
+msgid "Fetish"
+msgstr "Fetiş"
+
+msgid "Old"
+msgstr "İhtiyar"
+
+msgid "Fat"
+msgstr "Şişman"
+
+msgid "Rough"
+msgstr "Sert"
+
+msgid "Dark"
+msgstr "Karanlık"
+
+msgid "Outside"
+msgstr "Dışarıda"
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "Series"
+msgstr "Dizi"
+
+msgid "Book"
+msgstr "Kitap"
+
+msgid "Erotica"
+msgstr "Erotik"
+
+msgid "Compilation"
+msgstr "Derleme"
+
+msgid "Other"
+msgstr "Diğer"
+
+msgid "Variable"
+msgstr "Değişken"
+
+msgid "World"
+msgstr "Dünya"
+
+msgid "Religious"
+msgstr "Dİnî"
+
+msgid "Audiobook"
+msgstr "Sesli kitap"
+
+msgid "Strategy"
+msgstr "Strateji"
+
+msgid "Roleplaying"
+msgstr "Rol oyunu"
+
+msgid "Simulation"
+msgstr "Simülasyon"
+
+msgid "Flying"
+msgstr "Uçuş"
+
+msgid "Child/youth"
+msgstr "Çocuk/gençlik"
+
+msgid "Puzzle"
+msgstr "Yapboz"
+
+msgid "Boardgame"
+msgstr "Masa oyunu"
+
+msgid "Cards"
+msgstr "Kart oyunu"
+
+msgid "Education"
+msgstr "Eğitim"
+
+msgid "everything"
+msgstr "hepsi"
+
+msgid "Graphics"
+msgstr "Grafik"
+
+msgid "Media players"
+msgstr "Ortam oynatıcıları"
+
+msgid "Photo"
+msgstr "Fotoğraf"
+
+msgid "Educational"
+msgstr "Eğitimsel"
+
+msgid "Office"
+msgstr "Ofis"
+
+msgid "Communication"
+msgstr "İletişim"
+
+msgid "Development"
+msgstr "Geliştirme"
+
+# SpotSecurity.php
+msgid "Display overview of spots"
+msgstr "Spotlara genel bakışı görüntüle"
+
+msgid "Log in"
+msgstr "Oturum aç"
+
+msgid "Perform a search"
+msgstr "Arama yap"
+
+msgid "View spot in detail"
+msgstr "Spota teferruatlı bakış"
+
+msgid "Retrieve NZB file"
+msgstr "NZB dosyasını al"
+
+msgid "Download manager integration"
+msgstr "İndirme yöneticisi birleşimi"
+
+msgid "Mark spots as read"
+msgstr "Spotları okunmuş olarak işaretle"
+
+msgid "View image of spot"
+msgstr "Spotun resmini görüntüle"
+
+msgid "RSS feed"
+msgstr "RSS beslemesi"
+
+msgid "Static resources"
+msgstr "Statik kaynaklar"
+
+msgid "Create new user"
+msgstr "Yeni kullanıcı oluştur"
+
+msgid "Change own preferences"
+msgstr "Kendi tercihlerinizi değiştirin"
+
+msgid "Change own user settings"
+msgstr "Kendi kullanıcı ayarlarınızı değiştirin"
+
+msgid "List all users"
+msgstr "Tüm kullanıcıları listele"
+
+msgid "Post comments to a spot"
+msgstr "Bir spot için yorum gönder"
+
+msgid "Use downloads manager API "
+msgstr "İndirme yönetici API'ını kullan"
+
+msgid "Keep watchlist"
+msgstr "Takip listesi muhafaza et"
+
+msgid "Keep downloadlist"
+msgstr "İndirme listesi muhafaza et"
+
+msgid "Keep seenlist"
+msgstr "Görülmüşler listesi muhafaza et"
+
+msgid "Show new spotcount in list of filters"
+msgstr "Filtre listesinde yeni spot sayısını göster"
+
+msgid "Display Retrieve new spots button"
+msgstr "Yeni spotları al düğmesi görüntüle"
+
+msgid "Display comments of a spot"
+msgstr "Bir spotun yorumlarını görüntüle"
+
+msgid "Let user choose their template"
+msgstr "Kullanıcıların şablonlarını seçmesine imkân ver"
+
+msgid "Use Spotweb using an API key"
+msgstr "API anahtarı vasıtasıyla Spotweb kullan"
+
+msgid "Change other users"
+msgstr "Diğer kullanıcıları değiştir"
+
+msgid "Display total amount of spots"
+msgstr "Toplam spot miktarını görüntüle"
+
+msgid "Delete users"
+msgstr "Kullanıcıları sil"
+
+msgid "Change users' group membeship"
+msgstr "Kullanıcıların grup üyeliklerini değiştir"
+
+msgid "Display users' group membership"
+msgstr "Kullanıcıların grup üyeliklerini görüntüle"
+
+msgid "Change security groups"
+msgstr "Güvenlik gruplarını değiştir"
+
+msgid "Send notifications (per service)"
+msgstr "Bildirimleri gönder (hizmet başı)"
+
+msgid "Send notifications (per type)"
+msgstr "Bildirimleri gönder (tür başına)"
+
+msgid "Let users create their own CSS"
+msgstr "Kullanıcıların kendi CSS'lerini oluşturmalarına imkân ver"
+
+msgid "Create own Spot filters"
+msgstr "Kendi Spot filtrelerinizi oluşturun"
+
+msgid "Set a set of filters as default for new users"
+msgstr "Yeni kullanıcılar için bir filtre kümesini varsayılan olarak ayarla"
+
+msgid "Report a spot as spam"
+msgstr "Spotu spam olarak raporla"
+
+msgid "Post a new spot"
+msgstr "Yeni bir spot gönder"
+
+msgid "Blacklist a spotter"
+msgstr "Bir spotçuyu kara listeye al"
+
+msgid "Display statistics"
+msgstr "İstatistikleri görüntüle"
+
+msgid "Display Spotweb's changelog"
+msgstr "Spotweb'in değişiklik kütüğünü görüntüle"
+
+msgid "Change settings"
+msgstr "Ayarları değiştir"
+
+msgid "Default newsserver"
+msgstr "Varsayılan Usenet sunucusu"
+
+# editspotterblacklist.inc.php
+msgid "Remove spotter from blacklist"
+msgstr "Spotçuyu kara listeden kaldır"
+
+msgid "Remove spotter from whitelist"
+msgstr "Spotçuyu beyaz listeden kaldır"
+
+msgid "Spotter ID"
+msgstr "Spotçu Kimliği"
+
+msgid "Origin"
+msgstr "Köken"
+
+msgid "Remove spotterid"
+msgstr "Spotçu kimliğini kaldır"
+
+msgid "%s commented earlier:"
+msgstr "%s daha önce şu yorumu yaptı:"
+
+msgid "Access denied for [%s (%d::%s)]"
+msgstr "[%s (%d::%s)] için erişim reddedildi"
+
+msgid "Loading"
+msgstr "Yükleniyor"
+
+msgid "Listed spotters"
+msgstr "Listelenmiş spotçular"
+
+msgid "Blacklisted"
+msgstr "Kara listeye alındı"
+
+msgid "Whitelisted"
+msgstr "Beyaz listeye alındı"
+
+msgid "Reported via Spotweb for spot"
+msgstr "Spot için Spotweb vasıtasıyla raporlanmış"
+
+msgid "Whitelisted by user"
+msgstr "Kullanıcı tarafından beyaz listeye alınmış"
+
+msgid "Minimum number of spamreports before showing spamreports icon?"
+msgstr "Spam raporları ikonunun gösterilmesinden önceki asgari spam rapor sayısı?"
+
+msgid "Change user preferences"
+msgstr "Kullanıcı tercihlerini değiştir"
+
+msgid "Administrators"
+msgstr "Yöneticiler"
+
+msgid "Anonymous user - closed system"
+msgstr "Anonim kullanıcı - kapalı sistem"
+
+msgid "Anonymous user - open system"
+msgstr "Anonim kullanıcı - açık sistem"
+
+msgid "Authenticated users"
+msgstr "Kimliği doğrulanmış kullanıcılar"
+
+msgid "Trusted users"
+msgstr "Güvenilir kullanıcılar"
+
+msgid "Spotweb can use the Microsoft Translator API to translate comments and Spot description to the users native language. This requires a so-called Client ID and a SecretID which you need to request at Microsoft. Please enter the values in below fields."
+msgstr "Spotweb, yorumları ve spot tanımlamalarını kullanıcıların anadillerine tercüme etmek için Microsoft Translator API'ını kullanabilir. Bu, Microsoft'tan talep etmeniz gereken İstemci Kimliği ve Gizli Kimlik gerektirir. Lütfen değerleri aşağıdaki alanlara girin."
+
+msgid "Note:"
+msgstr "Not:"
+
+msgid "The edited spot will not be posted to usenet. The changes will only be visible for users of this Spotweb site."
+msgstr "Düzenlenmiş spot Usenet'e gönderilmeyecektir. Değişiklikler sadece bu Spotweb sitesinin kullanıcıları için görülebilir olacaktır."
+
+msgid "Deleting a spot will remove the spot from this Spotweb site only. It will not be removed from other websites and/or other Spotnet clients."
+msgstr "Bir spotun silinmesi, spotu sadece bu Spotweb sitesinden kaldıracaktır. Diğer sitelerden ve/veya Spotnet istemcilerinden kaldırılmayacaktır."
+
+#: lib/SpotCategories.php
+msgid "Optimization software"
+msgstr "Optimizasyon yazılımları"
+
+msgid "Security software"
+msgstr "Güvenlik yazılımları"
+
+msgid "System software"
+msgstr "Sistem yazılımları"
+
+msgid "Navigation systems"
+msgstr "Gezinme sistemleri"
